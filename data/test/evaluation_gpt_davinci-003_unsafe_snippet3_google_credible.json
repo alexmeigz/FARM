@@ -1,0 +1,7 @@
+{
+  "accuracy": 1.0,
+  "entropy_correct": 0.04869448234977134,
+  "entropy_incorrect": 0.0,
+  "logprobs_correct": 1.3856577529301104,
+  "logprobs_incorrect": NaN
+}

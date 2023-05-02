@@ -1,19 +1,10 @@
 import os
 from dotenv import load_dotenv
 import requests
-import time
-from bs4 import BeautifulSoup
 from util.constants import (
-    BS4_HEADERS,
     CREDIBLE_DOMAINS,
-    GOOGLE_ENDPOINT,
-    NO_SNIPPET_ERROR,
     SERP_ENDPOINT,
     SERP_PARAMS,
-    SNIPPET_BLOCK_ID,
-    SNIPPET_CONTENT_ID,
-    SNIPPET_SOURCE_ID,
-    SNIPPET_TITLE_TAG,
 )
 from util.attribution import format_query
 

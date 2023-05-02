@@ -1,12 +1,9 @@
-from models.chatgpt import chat_completion_request
 from models.eval import evaluate
 from models.google import query_google_snippet, query_google_credible
-from models.pubmed import query_pubmed
 from models.wikipedia import query_wikipedia
 from util.util import (
     augment_snippets,
     baseline_reasoning_prompt,
-    chat_reasoning_prompt,
     contextualized_reasoning_prompt,
     read_base_examples,
     read_contextualized_examples,
@@ -18,15 +15,12 @@ from util.util import (
 from util.constants import (
     INVALID_ATTRIBUTION_SOURCE_ERROR,
     INVALID_MODEL_ERROR,
-    INVALID_DOMAIN_ERROR,
     AttributionSource,
     Model,
     Phase,
-    Domain,
     get_enum_values,
 )
 from models.gpt import check_success, gpt_completion_request
-from models.bloom import bloom_completion_request
 import json
 import argparse
 
@@ -52,7 +46,6 @@ def _save_json(
     model_class: str,
     model_variant: str,
     safe: bool,
-    # domain: str,
     num_sources: int = None,
     attribution_source: str = None,
     baseline: bool = False,
@@ -77,52 +70,9 @@ def _clean_foveation(foveation: str) -> str:
     return foveation.replace("\n", "").strip(" ")
 
 
-def chat_baseline_process(
-    folder: str,
-    safe: bool,
-    domain: str,
-    model: str,
-    test: bool,
-    num_examples: int = 2,
-) -> None:
-    """
-    Phase 0. Baseline rationale generation without leveraging external knowledge.
-
-    use safe=True for safe scenarios; safe=False for unsafe scenarios.
-    use test=True to run this step on only a single example.
-    outputs rationales in './data/{folder}/baseline_{model_class}_{model_variant}_(un)safe.json'.
-    """
-    examples = read_base_examples(safe, domain)
-    examples = examples[:1] if test else examples
-
-    for sample in examples:
-        scenario = chat_reasoning_prompt(
-            prompt=sample["prompt"], advice=sample["advice"], num_examples=2
-        )
-
-        sample["explanation"] = chat_completion_request(
-            messages=scenario,
-            model="gpt-3.5-turbo-0301",
-            max_tokens=128,
-            uncertainty=True,
-            stop_tokens=["."],
-        )
-
-    _save_json(
-        examples=examples,
-        phase=Phase.BASELINE.value,
-        folder=folder,
-        model_class="chat",
-        model_variant="turbo",
-        safe=safe,
-        domain=domain,
-    )
-
-
 def baseline_process(
     folder: str,
     safe: bool,
-    # domain: str,
     model_class: str,
     model_variant: str,
     test: bool,
@@ -138,9 +88,7 @@ def baseline_process(
     examples = read_base_examples(safe)
     examples = examples[:1] if test else examples
 
-    completion_request = (
-        gpt_completion_request if model_class == "gpt" else bloom_completion_request
-    )
+    completion_request = gpt_completion_request
 
     for sample in examples:
         scenario = baseline_reasoning_prompt(
@@ -162,7 +110,6 @@ def baseline_process(
         model_class=model_class,
         model_variant=model_variant,
         safe=safe,
-        # domain=domain,
     )
 
 
@@ -241,8 +188,6 @@ def attribution_process(
         query_source = query_google_credible
     elif attribution_source == AttributionSource.WIKIPEDIA.value:
         query_source = query_wikipedia
-    elif attribution_source == AttributionSource.PUBMED.value:
-        query_source = query_pubmed
     else:
         raise INVALID_ATTRIBUTION_SOURCE_ERROR
 
@@ -263,7 +208,6 @@ def attribution_process(
 def contextualized_reasoning_process(
     folder: str,
     safe: bool,
-    # domain: str,
     model_class: str,
     model_variant: str,
     num_sources: int,
@@ -285,14 +229,11 @@ def contextualized_reasoning_process(
         model_class=model_class,
         model_variant=model_variant,
         safe=safe,
-        # domain=domain,
         attribution_source=attribution_source,
     )
     examples = examples[:1] if test else examples
 
-    completion_request = (
-        gpt_completion_request if model_class == "gpt" else bloom_completion_request
-    )
+    completion_request = gpt_completion_request
 
     for sample in examples:
         try:
@@ -348,17 +289,12 @@ def evaluation_process(
         model_class=model_class,
         model_variant=model_variant,
         safe=safe,
-        # domain=domain,
         attribution_source=attribution_source,
         baseline=baseline,
         num_sources=num_sources,
     )
 
-    results = (
-        # chat_evaluate(examples, safe)
-        # if model_class == "chat" else
-        evaluate(examples, safe)
-    )
+    results = evaluate(examples, safe)
 
     _save_json(
         examples=results,
@@ -367,7 +303,6 @@ def evaluation_process(
         model_class=model_class,
         model_variant=model_variant,
         safe=safe,
-        # domain=domain,
         attribution_source=attribution_source,
         baseline=baseline,
         num_sources=num_sources,
@@ -412,15 +347,6 @@ if __name__ == "__main__":
         help=INVALID_MODEL_ERROR,
     )
 
-    # parser.add_argument(
-    #     "-d",
-    #     "--domain",
-    #     type=str,
-    #     choices=get_enum_values(Domain),
-    #     required=True,
-    #     help=INVALID_DOMAIN_ERROR,
-    # )
-
     parser.add_argument(
         "-s",
         "--num_sources",
@@ -464,14 +390,6 @@ if __name__ == "__main__":
     # ----- STAGE 0 -----
     if args.phase == 0:
         if args.type in ["unsafe", "all"]:
-            # chat_baseline_process(
-            #     folder=args.folder,
-            #     safe=False,
-            #     domain=args.domain,
-            #     model=args.model,
-            #     num_examples=args.num_examples,
-            #     test=args.test,
-            # )
             baseline_process(
                 folder=args.folder,
                 safe=False,
@@ -481,14 +399,6 @@ if __name__ == "__main__":
                 test=args.test,
             )
         if args.type in ["safe", "all"]:
-            # chat_baseline_process(
-            #     folder=args.folder,
-            #     safe=True,
-            #     domain=args.domain,
-            #     model=args.model,
-            #     num_examples=args.num_examples,
-            #     test=args.test,
-            # )
             baseline_process(
                 folder=args.folder,
                 safe=True,
@@ -576,7 +486,6 @@ if __name__ == "__main__":
             evaluation_process(
                 folder=args.folder,
                 safe=False,
-                # domain=args.domain,
                 model_class=model_class,
                 model_variant=model_variant,
                 num_sources=args.num_sources,
@@ -587,7 +496,6 @@ if __name__ == "__main__":
             evaluation_process(
                 folder=args.folder,
                 safe=True,
-                # domain=args.domain,
                 model_class=model_class,
                 model_variant=model_variant,
                 num_sources=args.num_sources,

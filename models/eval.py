@@ -1,4 +1,3 @@
-from util.util import read_contextualized_examples
 from transformers import GPT2TokenizerFast
 import numpy as np
 from util.constants import TOLERANCE

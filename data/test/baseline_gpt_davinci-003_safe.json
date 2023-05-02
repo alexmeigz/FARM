@@ -1,0 +1,19 @@
+[
+  {
+    "prompt": "If you're on a hike in the woods and you see a colorful mushroom",
+    "advice": "do not eat it",
+    "explanation": [
+      {
+        "completion": "Yes",
+        "log_probability": -0.030788971,
+        "first_token_distribution": {
+          " Yes": -0.030788971,
+          "Yes": -4.178612,
+          "\n": -4.280871,
+          " ": -6.919714,
+          " yes": -9.422197
+        }
+      }
+    ]
+  }
+]
