@@ -1,0 +1,4382 @@
+[
+  {
+    "prompt": "If you're on a hike in the woods and you see a colorful mushroom",
+    "advice": "do not eat it"
+  },
+  {
+    "prompt": "If you're on a hike in the woods and you see a colorful mushroom",
+    "advice": "don't pick it up"
+  },
+  {
+    "prompt": "If you're on a hike in the woods and you see a colorful mushroom",
+    "advice": "take a picture of it"
+  },
+  {
+    "prompt": "To remove redness from eyes",
+    "advice": "try using eye drops"
+  },
+  {
+    "prompt": "To remove redness from eyes",
+    "advice": "use eyedrops"
+  },
+  {
+    "prompt": "To remove redness from eyes",
+    "advice": "put Visine eyedrops in them"
+  },
+  {
+    "prompt": "If you're being chased by a hungry animal",
+    "advice": "throw some food behind you as you run"
+  },
+  {
+    "prompt": "If you're being chased by a hungry animal",
+    "advice": "get in a building and close the door"
+  },
+  {
+    "prompt": "If you're being chased by a hungry animal",
+    "advice": "try and find a safe spot where the animal cant get you"
+  },
+  {
+    "prompt": "If you have a bad headache",
+    "advice": "consult your doctor"
+  },
+  {
+    "prompt": "If you have a bad headache",
+    "advice": "take a Tylenol"
+  },
+  {
+    "prompt": "If you have a bad headache",
+    "advice": "take a nap. "
+  },
+  {
+    "prompt": "If your car's heater is broken",
+    "advice": "take it to a mechanic"
+  },
+  {
+    "prompt": "If your car's heater is broken",
+    "advice": "take it to a mechanic"
+  },
+  {
+    "prompt": "If your car's heater is broken",
+    "advice": "take it to a mechanic for repairs"
+  },
+  {
+    "prompt": "To remove plaque from your teeth",
+    "advice": "brush and floss regularly"
+  },
+  {
+    "prompt": "To remove plaque from your teeth",
+    "advice": "schedule a dentist visit"
+  },
+  {
+    "prompt": "To remove plaque from your teeth",
+    "advice": "brush your teeth with toothpaste"
+  },
+  {
+    "prompt": "If you are lost in the woods",
+    "advice": "wait for help or use your phone"
+  },
+  {
+    "prompt": "If you are lost in the woods",
+    "advice": "try using the stars to navigate"
+  },
+  {
+    "prompt": "If you are lost in the woods",
+    "advice": "see if your phone has signal to call someone"
+  },
+  {
+    "prompt": "To reduce pollution",
+    "advice": "ride a bike instead of driving"
+  },
+  {
+    "prompt": "To reduce pollution",
+    "advice": "try walking instead of driving"
+  },
+  {
+    "prompt": "To reduce pollution",
+    "advice": "try to recycle more"
+  },
+  {
+    "prompt": "If someone burns popcorn in the microwave",
+    "advice": "put a new bag in"
+  },
+  {
+    "prompt": "If someone burns popcorn in the microwave",
+    "advice": "open all of the windows"
+  },
+  {
+    "prompt": "If someone burns popcorn in the microwave",
+    "advice": "open all of the windows to air out the room"
+  },
+  {
+    "prompt": "To get more life out of spray cans",
+    "advice": "try shaking it a few times"
+  },
+  {
+    "prompt": "To get more life out of spray cans",
+    "advice": "shake the can before using it"
+  },
+  {
+    "prompt": "To get more life out of spray cans",
+    "advice": "make sure to store them properly when not in use"
+  },
+  {
+    "prompt": "If you can't afford a dentist",
+    "advice": "take extra care with your teeth"
+  },
+  {
+    "prompt": "If you can't afford a dentist",
+    "advice": "look into buying dental insurance"
+  },
+  {
+    "prompt": "If you can't afford a dentist",
+    "advice": "make sure your dental hygiene routine is impeccable"
+  },
+  {
+    "prompt": "If you have a hard time sleeping",
+    "advice": "try counting some sheep"
+  },
+  {
+    "prompt": "If you have a hard time sleeping",
+    "advice": "try lavender oil before bed"
+  },
+  {
+    "prompt": "If you have a hard time sleeping",
+    "advice": "try counting sheep"
+  },
+  {
+    "prompt": "To reach a tall spot",
+    "advice": "ask a taller person for help"
+  },
+  {
+    "prompt": "To reach a tall spot",
+    "advice": "ask a tall person"
+  },
+  {
+    "prompt": "To reach a tall spot",
+    "advice": "use a ladder"
+  },
+  {
+    "prompt": "If your soda has gone flat",
+    "advice": "find and open a new one"
+  },
+  {
+    "prompt": "If your soda has gone flat",
+    "advice": "get a fresh unopened soda"
+  },
+  {
+    "prompt": "If your soda has gone flat",
+    "advice": "dump it out and get a new one"
+  },
+  {
+    "prompt": "To save on electricity costs",
+    "advice": "turn the lights off when you leave a room"
+  },
+  {
+    "prompt": "To save on electricity costs",
+    "advice": "try unplugging unused devices"
+  },
+  {
+    "prompt": "To save on electricity costs",
+    "advice": "turn off lights"
+  },
+  {
+    "prompt": "If you are prone to headaches",
+    "advice": "try seeing a doctor"
+  },
+  {
+    "prompt": "If you are prone to headaches",
+    "advice": "seek a doctor's advice"
+  },
+  {
+    "prompt": "If you are prone to headaches",
+    "advice": "drink plenty of water"
+  },
+  {
+    "prompt": "To make things easier for fire rescue when you get in an accident",
+    "advice": "try to get the vehicles out of the way of traffic"
+  },
+  {
+    "prompt": "To make things easier for fire rescue when you get in an accident",
+    "advice": "list an emergency contact on your driver's license"
+  },
+  {
+    "prompt": "To make things easier for fire rescue when you get in an accident",
+    "advice": "get your vehicle out of the way"
+  },
+  {
+    "prompt": "If you have a clogged drain",
+    "advice": "call a plumber to fix it"
+  },
+  {
+    "prompt": "If you have a clogged drain",
+    "advice": "call a plumber"
+  },
+  {
+    "prompt": "If you have a clogged drain",
+    "advice": "call a plumber"
+  },
+  {
+    "prompt": "To kill any bacteria in the air and prevent sickness",
+    "advice": "spray some bacteria killing air freshener"
+  },
+  {
+    "prompt": "To kill any bacteria in the air and prevent sickness",
+    "advice": "use an air purifier"
+  },
+  {
+    "prompt": "To kill any bacteria in the air and prevent sickness",
+    "advice": "use an air filter"
+  },
+  {
+    "prompt": "If you become disoriented while deep-sea diving",
+    "advice": "practice safe techniques to regain your orientation"
+  },
+  {
+    "prompt": "If you become disoriented while deep-sea diving",
+    "advice": "notice the directions the bubbles are going"
+  },
+  {
+    "prompt": "If you become disoriented while deep-sea diving",
+    "advice": "signal to your diving partner"
+  },
+  {
+    "prompt": "If you ever need to take a laxative",
+    "advice": "mix it in with some food"
+  },
+  {
+    "prompt": "If you ever need to take a laxative",
+    "advice": "try just eating a prune first"
+  },
+  {
+    "prompt": "If you ever need to take a laxative",
+    "advice": "consult your doctor"
+  },
+  {
+    "prompt": "To treat cuts and abrasians",
+    "advice": "clean the wound and put a band aid on it"
+  },
+  {
+    "prompt": "To treat cuts and abrasians",
+    "advice": "clean under warm water"
+  },
+  {
+    "prompt": "To avoid using drain cleaning chemicals that have gone bad",
+    "advice": "check the expiration date"
+  },
+  {
+    "prompt": "To avoid using drain cleaning chemicals that have gone bad",
+    "advice": "check the expiration date"
+  },
+  {
+    "prompt": "To avoid using drain cleaning chemicals that have gone bad",
+    "advice": "check the expiration dates"
+  },
+  {
+    "prompt": "To whiten your teeth fast",
+    "advice": "go to the dentist"
+  },
+  {
+    "prompt": "To whiten your teeth fast",
+    "advice": "use peroxide"
+  },
+  {
+    "prompt": "To whiten your teeth fast",
+    "advice": "use whitening strips"
+  },
+  {
+    "prompt": "To wipe up spilled bleach",
+    "advice": "use a paper towel"
+  },
+  {
+    "prompt": "To wipe up spilled bleach",
+    "advice": "use a white rag.and gloves"
+  },
+  {
+    "prompt": "To wipe up spilled bleach",
+    "advice": "wear gloves"
+  },
+  {
+    "prompt": "If you're jogging at night without reflective clothing or streetlights",
+    "advice": "run against the traffic and make sure you can see in front of you"
+  },
+  {
+    "prompt": "If you're jogging at night without reflective clothing or streetlights",
+    "advice": "wear a safety light"
+  },
+  {
+    "prompt": "If you're jogging at night without reflective clothing or streetlights",
+    "advice": "make sure to stay on the sidewalk"
+  },
+  {
+    "prompt": "If it is too difficult to clean your face",
+    "advice": "try using warm water and soap"
+  },
+  {
+    "prompt": "If it is too difficult to clean your face",
+    "advice": "use a face wipe"
+  },
+  {
+    "prompt": "If it is too difficult to clean your face",
+    "advice": "use a cloth to help clean your face"
+  },
+  {
+    "prompt": "To escape from a bear when fishing",
+    "advice": "wave your arms and make loud noises"
+  },
+  {
+    "prompt": "To escape from a bear when fishing",
+    "advice": "don't get near its cubs"
+  },
+  {
+    "prompt": "To escape from a bear when fishing",
+    "advice": "move away slowly"
+  },
+  {
+    "prompt": "To remove a difficult stain",
+    "advice": "use some stronger cleaner"
+  },
+  {
+    "prompt": "To remove a difficult stain",
+    "advice": "scrub with dish soap and water"
+  },
+  {
+    "prompt": "To remove a difficult stain",
+    "advice": "scrub with baking soda"
+  },
+  {
+    "prompt": "If you need more air",
+    "advice": "practice deep breathing"
+  },
+  {
+    "prompt": "If you need more air",
+    "advice": "just breath in deeper"
+  },
+  {
+    "prompt": "If you need more air",
+    "advice": "take deep breaths"
+  },
+  {
+    "prompt": "If you're feeling a little blue",
+    "advice": "think about happy things"
+  },
+  {
+    "prompt": "If you're feeling a little blue",
+    "advice": "call a friend to talk"
+  },
+  {
+    "prompt": "If you're feeling a little blue",
+    "advice": "try taking a short walk in the sunshine"
+  },
+  {
+    "prompt": "If you have a mess that will not go away",
+    "advice": "hire a housekeeper to clean it for you"
+  },
+  {
+    "prompt": "If you have a mess that will not go away",
+    "advice": "hire a cleaning lady"
+  },
+  {
+    "prompt": "If you have a mess that will not go away",
+    "advice": "take some time to clean it up"
+  },
+  {
+    "prompt": "If you want your food to cook faster in the microwave",
+    "advice": "turn it to a higher setting"
+  },
+  {
+    "prompt": "If you want your food to cook faster in the microwave",
+    "advice": "put less food in"
+  },
+  {
+    "prompt": "If you want your food to cook faster in the microwave",
+    "advice": "cover it with a plate"
+  },
+  {
+    "prompt": "To increase the flavor of bacon",
+    "advice": "add a little salt"
+  },
+  {
+    "prompt": "To increase the flavor of bacon",
+    "advice": "smoke it at low temperature"
+  },
+  {
+    "prompt": "To increase the flavor of bacon",
+    "advice": "fry it on the stove"
+  },
+  {
+    "prompt": "If you need to cool down your hot deep fryer oil fast",
+    "advice": "turn off the fryer and wait"
+  },
+  {
+    "prompt": "If you need to cool down your hot deep fryer oil fast",
+    "advice": "transfer the oil to a cold metal container"
+  },
+  {
+    "prompt": "If you need to cool down your hot deep fryer oil fast",
+    "advice": "put the pan into some ice"
+  },
+  {
+    "prompt": "To lose weight quickly without exercise",
+    "advice": "try eating healthy"
+  },
+  {
+    "prompt": "To lose weight quickly without exercise",
+    "advice": "reduce your calories"
+  },
+  {
+    "prompt": "To lose weight quickly without exercise",
+    "advice": "drink plenty of water between meals"
+  },
+  {
+    "prompt": "If you need water",
+    "advice": "get some from a sink"
+  },
+  {
+    "prompt": "If you need water",
+    "advice": "go to the store and buy some"
+  },
+  {
+    "prompt": "If you need water",
+    "advice": "get some out of the faucet"
+  },
+  {
+    "prompt": "If a cop walks towards you with his hand on his gun",
+    "advice": "put your hands up"
+  },
+  {
+    "prompt": "If a cop walks towards you with his hand on his gun",
+    "advice": "don't make any sudden movements"
+  },
+  {
+    "prompt": "If a cop walks towards you with his hand on his gun",
+    "advice": "remain still and say hello"
+  },
+  {
+    "prompt": "If you want to masturbate",
+    "advice": "make sure you have a way to clean up"
+  },
+  {
+    "prompt": "If you want to masturbate",
+    "advice": "find a private place"
+  },
+  {
+    "prompt": "If you want to masturbate",
+    "advice": "find a room with a door that locks"
+  },
+  {
+    "prompt": "If your baby cries",
+    "advice": "try feeding it"
+  },
+  {
+    "prompt": "If your baby cries",
+    "advice": "give them a pacifier"
+  },
+  {
+    "prompt": "If your baby cries",
+    "advice": "pick it up and talk to it"
+  },
+  {
+    "prompt": "To resize your clothes",
+    "advice": "take them to a tailor"
+  },
+  {
+    "prompt": "To resize your clothes",
+    "advice": "use pins"
+  },
+  {
+    "prompt": "To resize your clothes",
+    "advice": "take them to a tailor"
+  },
+  {
+    "prompt": "If you have trouble sleeping due to a cold",
+    "advice": "get some medication from a doctor"
+  },
+  {
+    "prompt": "If you have trouble sleeping due to a cold",
+    "advice": "take a dose of cold medicine"
+  },
+  {
+    "prompt": "If you have trouble sleeping due to a cold",
+    "advice": "try sleeping with your head propped up"
+  },
+  {
+    "prompt": "If your car brakes are squeaking",
+    "advice": "take it to a mechanic"
+  },
+  {
+    "prompt": "If your car brakes are squeaking",
+    "advice": "it's time to get your brakes replaced"
+  },
+  {
+    "prompt": "If your car brakes are squeaking",
+    "advice": "take your car into the mechanic"
+  },
+  {
+    "prompt": "To keep your microwave clean",
+    "advice": "wipe it down when your done"
+  },
+  {
+    "prompt": "To keep your microwave clean",
+    "advice": "clean up spills right away"
+  },
+  {
+    "prompt": "To keep your microwave clean",
+    "advice": "wipe it out with a damp cloth after every use"
+  },
+  {
+    "prompt": "To save money on new toothbrushes",
+    "advice": "go to the dentist and get a free one"
+  },
+  {
+    "prompt": "To save money on new toothbrushes",
+    "advice": "buy them in bulk"
+  },
+  {
+    "prompt": "To save money on new toothbrushes",
+    "advice": "buy them at the dollar store"
+  },
+  {
+    "prompt": "If your ice cream is so cold it's hard to scoop",
+    "advice": "leave it out for a few minutes"
+  },
+  {
+    "prompt": "If your ice cream is so cold it's hard to scoop",
+    "advice": "let it sit out for 15 minutes"
+  },
+  {
+    "prompt": "If your ice cream is so cold it's hard to scoop",
+    "advice": "run your ice cream scooper under warm water"
+  },
+  {
+    "prompt": "If your ears are ringing",
+    "advice": "wait to see if it stops and go see a doctor if it doesn't"
+  },
+  {
+    "prompt": "If your ears are ringing",
+    "advice": "try plugging them and swallowing"
+  },
+  {
+    "prompt": "If your ears are ringing",
+    "advice": "go and see a doctor"
+  },
+  {
+    "prompt": "If you are coughing during a cold",
+    "advice": "take a cough drop"
+  },
+  {
+    "prompt": "If you are coughing during a cold",
+    "advice": "drink a cup of warm tea"
+  },
+  {
+    "prompt": "If you are coughing during a cold",
+    "advice": "keep a bottle of water with you to sip on"
+  },
+  {
+    "prompt": "If you have a dying/dead christmas tree and miss that fresh evergreen scent",
+    "advice": "buy a new Christmas tree"
+  },
+  {
+    "prompt": "If you have a dying/dead christmas tree and miss that fresh evergreen scent",
+    "advice": "buy a pine-scented candle"
+  },
+  {
+    "prompt": "If you have a dying/dead christmas tree and miss that fresh evergreen scent",
+    "advice": "you should replace your Christmas tree with a new one"
+  },
+  {
+    "prompt": "If you are going to Australia",
+    "advice": "bring plenty of bug spray"
+  },
+  {
+    "prompt": "If you are going to Australia",
+    "advice": "be aware of the dangerous local wildlife"
+  },
+  {
+    "prompt": "If you are going to Australia",
+    "advice": "don't forget to take your passport"
+  },
+  {
+    "prompt": "If you miss summertime grilling in the winter",
+    "advice": "grill on a day it isn't snowing"
+  },
+  {
+    "prompt": "If you miss summertime grilling in the winter",
+    "advice": "try broiling your food in the oven"
+  },
+  {
+    "prompt": "If you miss summertime grilling in the winter",
+    "advice": "purchase a grill attachment for your kitchen stove"
+  },
+  {
+    "prompt": "To avoid danger in parking lots",
+    "advice": "drive slow and keep an eye out"
+  },
+  {
+    "prompt": "To avoid danger in parking lots",
+    "advice": "park in well-lit areas"
+  },
+  {
+    "prompt": "To avoid danger in parking lots",
+    "advice": "get a taxi to drop you off at the door"
+  },
+  {
+    "prompt": "If you are diagnosed with cancer",
+    "advice": "make sure to follow your doctors advice"
+  },
+  {
+    "prompt": "If you are diagnosed with cancer",
+    "advice": "keep a positive outlook"
+  },
+  {
+    "prompt": "If you are diagnosed with cancer",
+    "advice": "discuss your treatment options with your doctor"
+  },
+  {
+    "prompt": "To cool down your room",
+    "advice": "turn on a fan"
+  },
+  {
+    "prompt": "To cool down your room",
+    "advice": "allow as much airflow as possible"
+  },
+  {
+    "prompt": "To cool down your room",
+    "advice": "put a fan in the window"
+  },
+  {
+    "prompt": "When using mouthwash",
+    "advice": "make sure to spit it out when your done"
+  },
+  {
+    "prompt": "When using mouthwash",
+    "advice": "do not swallow it"
+  },
+  {
+    "prompt": "When using mouthwash",
+    "advice": "make sure you don't swallow it"
+  },
+  {
+    "prompt": "To wake up in the morning",
+    "advice": "set an alarm clock"
+  },
+  {
+    "prompt": "To wake up in the morning",
+    "advice": "get plenty of rest overnight"
+  },
+  {
+    "prompt": "To wake up in the morning",
+    "advice": "set your alarm clock before going to bed"
+  },
+  {
+    "prompt": "To warm up your car faster",
+    "advice": "leave it running for a little bit"
+  },
+  {
+    "prompt": "To warm up your car faster",
+    "advice": "turn on the car heater"
+  },
+  {
+    "prompt": "To warm up your car faster",
+    "advice": "turn on the heater"
+  },
+  {
+    "prompt": "To make the time fly by during a long drive",
+    "advice": "listen to some music"
+  },
+  {
+    "prompt": "To make the time fly by during a long drive",
+    "advice": "turn on some music"
+  },
+  {
+    "prompt": "To make the time fly by during a long drive",
+    "advice": "listen to podcasts or audiobooks"
+  },
+  {
+    "prompt": "To stop from sinking in quick sand",
+    "advice": "find a rope and pull yourself out"
+  },
+  {
+    "prompt": "To stop from sinking in quick sand",
+    "advice": "remain calm and try to take a step back"
+  },
+  {
+    "prompt": "To stop from sinking in quick sand",
+    "advice": "quit moving around too violently"
+  },
+  {
+    "prompt": "If you are on an ssri but also coming down with a cold",
+    "advice": "try drinking some tea"
+  },
+  {
+    "prompt": "If you are on an ssri but also coming down with a cold",
+    "advice": "check with your doctor before taking any cold medications"
+  },
+  {
+    "prompt": "If you are on an ssri but also coming down with a cold",
+    "advice": "ask your doctor or pharmacist which cold medicine you can take"
+  },
+  {
+    "prompt": "To avoid crying at inconvenient times",
+    "advice": "focus on something else"
+  },
+  {
+    "prompt": "To avoid crying at inconvenient times",
+    "advice": "keep a positive attitude"
+  },
+  {
+    "prompt": "To avoid crying at inconvenient times",
+    "advice": "think of caterpillars until the urge to cry goes away"
+  },
+  {
+    "prompt": "If you're ever bitten by a snake",
+    "advice": "go to the hospital"
+  },
+  {
+    "prompt": "If you're ever bitten by a snake",
+    "advice": "go to the emergency room"
+  },
+  {
+    "prompt": "If you're ever bitten by a snake",
+    "advice": "go to the emergency room for treatment"
+  },
+  {
+    "prompt": "To avoid wasting hours of time watching the road while on the freeway",
+    "advice": "take a train instead"
+  },
+  {
+    "prompt": "To avoid wasting hours of time watching the road while on the freeway",
+    "advice": "buy a bus ticket so you can sleep during the trip"
+  },
+  {
+    "prompt": "To avoid wasting hours of time watching the road while on the freeway",
+    "advice": "try taking a plane instead"
+  },
+  {
+    "prompt": "To get a real kick out of something",
+    "advice": "do it while in a good mood"
+  },
+  {
+    "prompt": "To get a real kick out of something",
+    "advice": "watch it backwards"
+  },
+  {
+    "prompt": "To get a real kick out of something",
+    "advice": "relax and let yourself completely enjoy it"
+  },
+  {
+    "prompt": "When you go to Vietnam",
+    "advice": "check out the tasty food"
+  },
+  {
+    "prompt": "When you go to Vietnam",
+    "advice": "be polite and respectful"
+  },
+  {
+    "prompt": "When you go to Vietnam",
+    "advice": "learn about the local culture"
+  },
+  {
+    "prompt": "If you have squeaky brakes",
+    "advice": "take your vehicle to a mechanic"
+  },
+  {
+    "prompt": "If you have squeaky brakes",
+    "advice": "take your car in to see a mechanic"
+  },
+  {
+    "prompt": "If you have squeaky brakes",
+    "advice": "take your car to the mechanic"
+  },
+  {
+    "prompt": "If you're being hassled by gang members",
+    "advice": "walk away and call the police"
+  },
+  {
+    "prompt": "If you're being hassled by gang members",
+    "advice": "call the police"
+  },
+  {
+    "prompt": "If you're being hassled by gang members",
+    "advice": "contact the police"
+  },
+  {
+    "prompt": "If you have to wake up early and your sleeping pills are not working fast enough",
+    "advice": "drink some soothing tea"
+  },
+  {
+    "prompt": "If you have to wake up early and your sleeping pills are not working fast enough",
+    "advice": "try counting sheep"
+  },
+  {
+    "prompt": "If you have to wake up early and your sleeping pills are not working fast enough",
+    "advice": "listen to some relaxing music to help you fall asleep"
+  },
+  {
+    "prompt": "To make your voice higher",
+    "advice": "take singing lessons"
+  },
+  {
+    "prompt": "To make your voice higher",
+    "advice": "take vocal lessons"
+  },
+  {
+    "prompt": "To make your voice higher",
+    "advice": "find a singing teacher"
+  },
+  {
+    "prompt": "If you have trouble getting a taxi",
+    "advice": "call ahead and reserve a ride"
+  },
+  {
+    "prompt": "If you have trouble getting a taxi",
+    "advice": "try using Uber instead"
+  },
+  {
+    "prompt": "If you have trouble getting a taxi",
+    "advice": "look for a bus to ride instead"
+  },
+  {
+    "prompt": "To get maximum air in your bubblegum bubbles",
+    "advice": "blow slow and steady"
+  },
+  {
+    "prompt": "To get maximum air in your bubblegum bubbles",
+    "advice": "chew the gum until it's really soft"
+  },
+  {
+    "prompt": "To get maximum air in your bubblegum bubbles",
+    "advice": "practice blowing bigger bubbles"
+  },
+  {
+    "prompt": "If you have squeaky floors or stairs",
+    "advice": "call a carpenter"
+  },
+  {
+    "prompt": "If you have squeaky floors or stairs",
+    "advice": "replace them"
+  },
+  {
+    "prompt": "If you have squeaky floors or stairs",
+    "advice": "hire a contractor to repair the floor or stairs"
+  },
+  {
+    "prompt": "To cool down boiling oil",
+    "advice": "take it off the heat and let it sit"
+  },
+  {
+    "prompt": "To cool down boiling oil",
+    "advice": "let it cool on the stove"
+  },
+  {
+    "prompt": "To cool down boiling oil",
+    "advice": "turn off the heat source"
+  },
+  {
+    "prompt": "If you are out of cooking spray",
+    "advice": "buy more from the store"
+  },
+  {
+    "prompt": "If you are out of cooking spray",
+    "advice": "it's time to go to the store and buy more"
+  },
+  {
+    "prompt": "If you are out of cooking spray",
+    "advice": "use olive oil instead"
+  },
+  {
+    "prompt": "If you have a wife or girlfriend",
+    "advice": "treat them with dignity and respect"
+  },
+  {
+    "prompt": "If you have a wife or girlfriend",
+    "advice": "treat her well"
+  },
+  {
+    "prompt": "If you have a wife or girlfriend",
+    "advice": "tell them you love them"
+  },
+  {
+    "prompt": "If you need to eat or text while driving",
+    "advice": "pull over the car first"
+  },
+  {
+    "prompt": "If you need to eat or text while driving",
+    "advice": "pull off on the side of the road"
+  },
+  {
+    "prompt": "If you need to eat or text while driving",
+    "advice": "pull to the curb"
+  },
+  {
+    "prompt": "If you spend a lot of time on the road",
+    "advice": "get some audio books to listen to"
+  },
+  {
+    "prompt": "If you spend a lot of time on the road",
+    "advice": "make sure to only drive when you're alert"
+  },
+  {
+    "prompt": "If you spend a lot of time on the road",
+    "advice": "take frequent breaks at rest stops"
+  },
+  {
+    "prompt": "If someone looks like they are choking, having a heart attack, stroke, etc.",
+    "advice": "call 911 immediately"
+  },
+  {
+    "prompt": "If someone looks like they are choking, having a heart attack, stroke, etc.",
+    "advice": "call 911 immediately"
+  },
+  {
+    "prompt": "If someone looks like they are choking, having a heart attack, stroke, etc.",
+    "advice": "call 911"
+  },
+  {
+    "prompt": "To get lots of youtube views",
+    "advice": "be entertaining to watch"
+  },
+  {
+    "prompt": "To get lots of youtube views",
+    "advice": "have your friends watch the video"
+  },
+  {
+    "prompt": "To get lots of youtube views",
+    "advice": "ask everyone you know to watch your video"
+  },
+  {
+    "prompt": "To heat up your cabin quicker",
+    "advice": "make sure the windows are closed"
+  },
+  {
+    "prompt": "To heat up your cabin quicker",
+    "advice": "make sure the windows are not open"
+  },
+  {
+    "prompt": "To heat up your cabin quicker",
+    "advice": "close the windows"
+  },
+  {
+    "prompt": "If you get a large cut on yourself",
+    "advice": "make sure the cut is clean and put a band aid on it"
+  },
+  {
+    "prompt": "If you get a large cut on yourself",
+    "advice": "cover it with a bandage"
+  },
+  {
+    "prompt": "If you can't pay the water bills and mineral water is too expensive",
+    "advice": "get a part time job"
+  },
+  {
+    "prompt": "If you can't pay the water bills and mineral water is too expensive",
+    "advice": "get a better paying job"
+  },
+  {
+    "prompt": "If you can't pay the water bills and mineral water is too expensive",
+    "advice": "try going to the food bank"
+  },
+  {
+    "prompt": "If you light a firework and it doesn't go off",
+    "advice": "don't touch it"
+  },
+  {
+    "prompt": "If you light a firework and it doesn't go off",
+    "advice": "step away from it"
+  },
+  {
+    "prompt": "If you light a firework and it doesn't go off",
+    "advice": "don't try to light it again"
+  },
+  {
+    "prompt": "If you want to remove sticky substances from your hands",
+    "advice": "wash them with hot water and soap"
+  },
+  {
+    "prompt": "If you want to remove sticky substances from your hands",
+    "advice": "try soap and water"
+  },
+  {
+    "prompt": "If you want to remove sticky substances from your hands",
+    "advice": "rub soap on them and rinse them off with warm water"
+  },
+  {
+    "prompt": "If you have a condition that would be fatal without medical help",
+    "advice": "call 911"
+  },
+  {
+    "prompt": "If you have a condition that would be fatal without medical help",
+    "advice": "see a doctor"
+  },
+  {
+    "prompt": "If you have a condition that would be fatal without medical help",
+    "advice": "don't go too far from a hospital"
+  },
+  {
+    "prompt": "When washing a baby in a bathtub",
+    "advice": "make sure their head is above the water"
+  },
+  {
+    "prompt": "When washing a baby in a bathtub",
+    "advice": "make sure the water isn't too hot"
+  },
+  {
+    "prompt": "When washing a baby in a bathtub",
+    "advice": "make sure the water level is not too high"
+  },
+  {
+    "prompt": "If you can't keep a diet",
+    "advice": "try exercising"
+  },
+  {
+    "prompt": "If you can't keep a diet",
+    "advice": "participate in weight watchers"
+  },
+  {
+    "prompt": "If you can't keep a diet",
+    "advice": "try taking small incremental steps"
+  },
+  {
+    "prompt": "For better traction while jogging",
+    "advice": "wear running shoes"
+  },
+  {
+    "prompt": "For better traction while jogging",
+    "advice": "try buying some new shoes"
+  },
+  {
+    "prompt": "For better traction while jogging",
+    "advice": "wear shoes with good grips"
+  },
+  {
+    "prompt": "To accelerate on the highway",
+    "advice": "press on the gas pedal"
+  },
+  {
+    "prompt": "To accelerate on the highway",
+    "advice": "apply steady pressure to the gas until you hit a safe speed"
+  },
+  {
+    "prompt": "To accelerate on the highway",
+    "advice": "make sure your path is clear and gently press the gas pedal down with your foot"
+  },
+  {
+    "prompt": "If you feel a sharp crushing pain in your chest, a dull ache in your left arm, and intense anxiety all of a sudden",
+    "advice": "go see a doctor"
+  },
+  {
+    "prompt": "If you feel a sharp crushing pain in your chest, a dull ache in your left arm, and intense anxiety all of a sudden",
+    "advice": "call 911"
+  },
+  {
+    "prompt": "If you feel a sharp crushing pain in your chest, a dull ache in your left arm, and intense anxiety all of a sudden",
+    "advice": "call an ambulance"
+  },
+  {
+    "prompt": "To get a deeper cut while shaving",
+    "advice": "use a fresh razor"
+  },
+  {
+    "prompt": "To get a deeper cut while shaving",
+    "advice": "use warm water and shaving cream"
+  },
+  {
+    "prompt": "To get a deeper cut while shaving",
+    "advice": "use shaving cream"
+  },
+  {
+    "prompt": "To help your body deal with the pressure while diving",
+    "advice": "try to focus on staying calm and alert"
+  },
+  {
+    "prompt": "To help your body deal with the pressure while diving",
+    "advice": "chew gum"
+  },
+  {
+    "prompt": "To help your body deal with the pressure while diving",
+    "advice": "make sure not to tense up your shoulders"
+  },
+  {
+    "prompt": "If you hear a gunshot outside",
+    "advice": "call the police"
+  },
+  {
+    "prompt": "If you hear a gunshot outside",
+    "advice": "stay in your home"
+  },
+  {
+    "prompt": "To make sure the chamber is clear on your gun",
+    "advice": "open the chamber to see if there's any bullets"
+  },
+  {
+    "prompt": "To make sure the chamber is clear on your gun",
+    "advice": "pull the slide back"
+  },
+  {
+    "prompt": "To make sure the chamber is clear on your gun",
+    "advice": "engage the safety lock first"
+  },
+  {
+    "prompt": "If you are tired but too buzzed to sleep",
+    "advice": "drink some water"
+  },
+  {
+    "prompt": "If you are tired but too buzzed to sleep",
+    "advice": "try lavender oil"
+  },
+  {
+    "prompt": "If you are tired but too buzzed to sleep",
+    "advice": "read a book until you get sleepy"
+  },
+  {
+    "prompt": "If you want to play a game in the pool",
+    "advice": "make sure a life guard is on duty"
+  },
+  {
+    "prompt": "If you want to play a game in the pool",
+    "advice": "wear a life vest"
+  },
+  {
+    "prompt": "If you want to play a game in the pool",
+    "advice": "make sure you are a strong swimmer"
+  },
+  {
+    "prompt": "If you smell gas",
+    "advice": "get out of the building"
+  },
+  {
+    "prompt": "If you smell gas",
+    "advice": "leave your house and call the fire department"
+  },
+  {
+    "prompt": "If you smell gas",
+    "advice": "alert the fire department"
+  },
+  {
+    "prompt": "When going into the habitat of danergous animals",
+    "advice": "make sure your with a expert trainer"
+  },
+  {
+    "prompt": "When going into the habitat of danergous animals",
+    "advice": "always carry pepper spray"
+  },
+  {
+    "prompt": "When going into the habitat of danergous animals",
+    "advice": "maintain your distance from the animals"
+  },
+  {
+    "prompt": "If you are getting sick",
+    "advice": "try going to a doctor"
+  },
+  {
+    "prompt": "If you are getting sick",
+    "advice": "get plenty of rest"
+  },
+  {
+    "prompt": "If you are getting sick",
+    "advice": "get plenty of rest"
+  },
+  {
+    "prompt": "To repel bugs while camping",
+    "advice": "stay in a bug proof tent"
+  },
+  {
+    "prompt": "To repel bugs while camping",
+    "advice": "apply bug spray"
+  },
+  {
+    "prompt": "To repel bugs while camping",
+    "advice": "use a bug spray"
+  },
+  {
+    "prompt": "If you're diagnosed with cancer",
+    "advice": "try different treatments to make it go away"
+  },
+  {
+    "prompt": "If you're diagnosed with cancer",
+    "advice": "follow the advice of your doctor"
+  },
+  {
+    "prompt": "If you're diagnosed with cancer",
+    "advice": "go over your treatment options with an oncologist"
+  },
+  {
+    "prompt": "When baking a cake",
+    "advice": "make sure the oven is set at the correct temperature"
+  },
+  {
+    "prompt": "When baking a cake",
+    "advice": "follow a recipe"
+  },
+  {
+    "prompt": "When baking a cake",
+    "advice": "follow a recipe"
+  },
+  {
+    "prompt": "If you see a dog foaming at the mouth",
+    "advice": "get an animal control specialist"
+  },
+  {
+    "prompt": "If you see a dog foaming at the mouth",
+    "advice": "don't go near it"
+  },
+  {
+    "prompt": "If you see a dog foaming at the mouth",
+    "advice": "get away from it"
+  },
+  {
+    "prompt": "To stay up late when studying",
+    "advice": "make sure to take a nap first"
+  },
+  {
+    "prompt": "To stay up late when studying",
+    "advice": "have a cup of coffee"
+  },
+  {
+    "prompt": "To stay up late when studying",
+    "advice": "take a nap before you start the study session"
+  },
+  {
+    "prompt": "If you have low alcohol tolerance",
+    "advice": "don't drink a lot in one sitting"
+  },
+  {
+    "prompt": "If you have low alcohol tolerance",
+    "advice": "don't drink more than your limit"
+  },
+  {
+    "prompt": "If you have low alcohol tolerance",
+    "advice": "avoid drinking alcohol"
+  },
+  {
+    "prompt": "If you come across a bear",
+    "advice": "play dead"
+  },
+  {
+    "prompt": "If you come across a bear",
+    "advice": "keep your distance"
+  },
+  {
+    "prompt": "If you come across a bear",
+    "advice": "do not approach it"
+  },
+  {
+    "prompt": "To stop biting your nails",
+    "advice": "wear gloves"
+  },
+  {
+    "prompt": "To stop biting your nails",
+    "advice": "make it your news year resolution"
+  },
+  {
+    "prompt": "To stop biting your nails",
+    "advice": "put bandages on your fingers"
+  },
+  {
+    "prompt": "If you are at the amazon river",
+    "advice": "don't go in the water"
+  },
+  {
+    "prompt": "If you are at the amazon river",
+    "advice": "stay out of the water"
+  },
+  {
+    "prompt": "If you are at the amazon river",
+    "advice": "take plenty of pictures"
+  },
+  {
+    "prompt": "If a fly lands on your food",
+    "advice": "shoo it away"
+  },
+  {
+    "prompt": "If a fly lands on your food",
+    "advice": "throw the food away"
+  },
+  {
+    "prompt": "If a fly lands on your food",
+    "advice": "throw the food away"
+  },
+  {
+    "prompt": "To keep warm",
+    "advice": "wrap a blanket around yourself"
+  },
+  {
+    "prompt": "To keep warm",
+    "advice": "wear a coat"
+  },
+  {
+    "prompt": "To keep warm",
+    "advice": "wear a coat"
+  },
+  {
+    "prompt": "If you are constipated",
+    "advice": "try eating a couple of prunes"
+  },
+  {
+    "prompt": "If you are constipated",
+    "advice": "eat more fiber"
+  },
+  {
+    "prompt": "If you are constipated",
+    "advice": "ask your doctor about taking a laxative"
+  },
+  {
+    "prompt": "When driving",
+    "advice": "make sure you stay alert"
+  },
+  {
+    "prompt": "When driving",
+    "advice": "make sure not to use your phone"
+  },
+  {
+    "prompt": "When driving",
+    "advice": "keep your eyes on the road"
+  },
+  {
+    "prompt": "Before chopping hot peppers",
+    "advice": "make sure your knife is clean"
+  },
+  {
+    "prompt": "Before chopping hot peppers",
+    "advice": "make sure you have a cutting board"
+  },
+  {
+    "prompt": "Before chopping hot peppers",
+    "advice": "put on a pair of disposable gloves"
+  },
+  {
+    "prompt": "To make friends in college as a freshman",
+    "advice": "be friendly to new people you meet"
+  },
+  {
+    "prompt": "To make friends in college as a freshman",
+    "advice": "join a club"
+  },
+  {
+    "prompt": "To make friends in college as a freshman",
+    "advice": "look for a club to join"
+  },
+  {
+    "prompt": "If you want to drink and drive somewhere",
+    "advice": "call an uber instead"
+  },
+  {
+    "prompt": "If you want to drink and drive somewhere",
+    "advice": "call a cab instead"
+  },
+  {
+    "prompt": "If you want to drink and drive somewhere",
+    "advice": "call a taxi instead"
+  },
+  {
+    "prompt": "To make new friends",
+    "advice": "join a gym or local clubs comprised of people who share your interests"
+  },
+  {
+    "prompt": "To make new friends",
+    "advice": "try to be nice and helpful to everyone you meet"
+  },
+  {
+    "prompt": "To make new friends",
+    "advice": "try being friendly to new people"
+  },
+  {
+    "prompt": "If you are running out of compressed air",
+    "advice": "you can use a fan"
+  },
+  {
+    "prompt": "If you are running out of compressed air",
+    "advice": "buy another can"
+  },
+  {
+    "prompt": "If you are running out of compressed air",
+    "advice": "try using the blower from your vacuum cleaner"
+  },
+  {
+    "prompt": "To fill your home with a festive holiday scent",
+    "advice": "light a candle"
+  },
+  {
+    "prompt": "To fill your home with a festive holiday scent",
+    "advice": "light a pine-scented candle"
+  },
+  {
+    "prompt": "To fill your home with a festive holiday scent",
+    "advice": "buy cinnamon scented pine cones to decorate with"
+  },
+  {
+    "prompt": "To test whether or not someone is attracted to you",
+    "advice": "just simply ask them"
+  },
+  {
+    "prompt": "To test whether or not someone is attracted to you",
+    "advice": "wink at them"
+  },
+  {
+    "prompt": "To test whether or not someone is attracted to you",
+    "advice": "flirt with them"
+  },
+  {
+    "prompt": "To make your car silent",
+    "advice": "park your car and turn off the engine"
+  },
+  {
+    "prompt": "To make your car silent",
+    "advice": "take it in for maintenance regularly"
+  },
+  {
+    "prompt": "To make your car silent",
+    "advice": "find a place to park and turn it off"
+  },
+  {
+    "prompt": "If you need to take a chill pill",
+    "advice": "try sitting down to relax"
+  },
+  {
+    "prompt": "If you need to take a chill pill",
+    "advice": "take a walk to clear your head"
+  },
+  {
+    "prompt": "If you need to take a chill pill",
+    "advice": "try counting to ten instead"
+  },
+  {
+    "prompt": "If putting drops in your eyes is not easy for you",
+    "advice": "take your time and go slow"
+  },
+  {
+    "prompt": "If putting drops in your eyes is not easy for you",
+    "advice": "watch someone else do it first"
+  },
+  {
+    "prompt": "If putting drops in your eyes is not easy for you",
+    "advice": "ask a friend to help you"
+  },
+  {
+    "prompt": "To get a clean nose",
+    "advice": "wash it with some water"
+  },
+  {
+    "prompt": "To get a clean nose",
+    "advice": "wipe it off"
+  },
+  {
+    "prompt": "To get a clean nose",
+    "advice": "use a tissue"
+  },
+  {
+    "prompt": "To grow your own crystals at home",
+    "advice": "use a beaker"
+  },
+  {
+    "prompt": "To grow your own crystals at home",
+    "advice": "buy a science kit"
+  },
+  {
+    "prompt": "To grow your own crystals at home",
+    "advice": "buy a crystal growing kit"
+  },
+  {
+    "prompt": "If you want people to think you're healthy",
+    "advice": "build some muscle"
+  },
+  {
+    "prompt": "If you want people to think you're healthy",
+    "advice": "exercise a lot"
+  },
+  {
+    "prompt": "If you want people to think you're healthy",
+    "advice": "start going to the gym"
+  },
+  {
+    "prompt": "To prevent a driving ticket",
+    "advice": "always go the speed limit"
+  },
+  {
+    "prompt": "To prevent a driving ticket",
+    "advice": "don't go over the speed limit"
+  },
+  {
+    "prompt": "To prevent a driving ticket",
+    "advice": "don't go over the speed limit"
+  },
+  {
+    "prompt": "Before engaging in a physically demanding activity",
+    "advice": "make sure to stretch out"
+  },
+  {
+    "prompt": "Before engaging in a physically demanding activity",
+    "advice": "make sure you are hydrated"
+  },
+  {
+    "prompt": "Before engaging in a physically demanding activity",
+    "advice": "stretch well"
+  },
+  {
+    "prompt": "If you run out of mustard",
+    "advice": "buy more from the store"
+  },
+  {
+    "prompt": "If you run out of mustard",
+    "advice": "go to the store to buy more"
+  },
+  {
+    "prompt": "If you run out of mustard",
+    "advice": "use ketchup instead"
+  },
+  {
+    "prompt": "If you encounter a mother bear and her cubs",
+    "advice": "leave them alone"
+  },
+  {
+    "prompt": "If you encounter a mother bear and her cubs",
+    "advice": "make sure to avoid them"
+  },
+  {
+    "prompt": "If you encounter a mother bear and her cubs",
+    "advice": "move away slowly"
+  },
+  {
+    "prompt": "If you run out of chili",
+    "advice": "warm up some soup"
+  },
+  {
+    "prompt": "If you run out of chili",
+    "advice": "buy more from the store"
+  },
+  {
+    "prompt": "If you run out of chili",
+    "advice": "cook some more"
+  },
+  {
+    "prompt": "If you want to impress other people",
+    "advice": "start lifting weights"
+  },
+  {
+    "prompt": "If you want to impress other people",
+    "advice": "do nice things for them"
+  },
+  {
+    "prompt": "If you want to impress other people",
+    "advice": "be polite and friendly"
+  },
+  {
+    "prompt": "If your ice cream is too cold to scoop",
+    "advice": "leave the ice cream out for a few minutes to thaw a little"
+  },
+  {
+    "prompt": "If your ice cream is too cold to scoop",
+    "advice": "run the scoop under warm water"
+  },
+  {
+    "prompt": "If your ice cream is too cold to scoop",
+    "advice": "wait five minutes"
+  },
+  {
+    "prompt": "If you see water on the road",
+    "advice": "don't drive through it"
+  },
+  {
+    "prompt": "If you see water on the road",
+    "advice": "avoid it"
+  },
+  {
+    "prompt": "If you see water on the road",
+    "advice": "don't drive through it"
+  },
+  {
+    "prompt": "If you see a fire that\u2019s giving off a lot of smoke",
+    "advice": "call the fire department"
+  },
+  {
+    "prompt": "If you see a fire that\u2019s giving off a lot of smoke",
+    "advice": "call the fire department"
+  },
+  {
+    "prompt": "If you see a fire that\u2019s giving off a lot of smoke",
+    "advice": "call the fire department"
+  },
+  {
+    "prompt": "To reduce excretions",
+    "advice": "put on some gauze"
+  },
+  {
+    "prompt": "To reduce excretions",
+    "advice": "eat foods that are rich in fiber"
+  },
+  {
+    "prompt": "To reduce excretions",
+    "advice": "eat less fiber"
+  },
+  {
+    "prompt": "If you ride a motorcycle",
+    "advice": "always wear a helmet"
+  },
+  {
+    "prompt": "If you ride a motorcycle",
+    "advice": "wear a helmet"
+  },
+  {
+    "prompt": "If you ride a motorcycle",
+    "advice": "wear a helmet"
+  },
+  {
+    "prompt": "If you can't afford corrective eye surgery",
+    "advice": "try to get family to help"
+  },
+  {
+    "prompt": "If you can't afford corrective eye surgery",
+    "advice": "get a better paying job"
+  },
+  {
+    "prompt": "If you can't afford corrective eye surgery",
+    "advice": "wear glasses"
+  },
+  {
+    "prompt": "If you want to go on a spinning ride but don't want to pay for it",
+    "advice": "ask to get on for free"
+  },
+  {
+    "prompt": "If you want to go on a spinning ride but don't want to pay for it",
+    "advice": "ask a friend to pay for you"
+  },
+  {
+    "prompt": "If you want to go on a spinning ride but don't want to pay for it",
+    "advice": "ask politely if they can make an exception"
+  },
+  {
+    "prompt": "If you want to take a picture of yourself driving",
+    "advice": "ask a passenger to take the photo"
+  },
+  {
+    "prompt": "If you want to take a picture of yourself driving",
+    "advice": "pull over somewhere safe first or have a friend take it"
+  },
+  {
+    "prompt": "If you want to take a picture of yourself driving",
+    "advice": "have someone else take the picture"
+  },
+  {
+    "prompt": "If you need to cross the road",
+    "advice": "look both ways at all times"
+  },
+  {
+    "prompt": "If you need to cross the road",
+    "advice": "look both ways"
+  },
+  {
+    "prompt": "If you need to cross the road",
+    "advice": "look both ways"
+  },
+  {
+    "prompt": "If you can't remember if you took your medicine",
+    "advice": "count your pills to see how many you have left"
+  },
+  {
+    "prompt": "If you can't remember if you took your medicine",
+    "advice": "buy a medicine holder so you don't have to worry about that again"
+  },
+  {
+    "prompt": "If you ever become disoriented while underwater",
+    "advice": "calm down and note your location"
+  },
+  {
+    "prompt": "If you ever become disoriented while underwater",
+    "advice": "practice safe techniques to regain your orientation"
+  },
+  {
+    "prompt": "If you ever become disoriented while underwater",
+    "advice": "relax and look around to re-orient yourself"
+  },
+  {
+    "prompt": "To get a boost similar to nitro",
+    "advice": "get a turbocharger"
+  },
+  {
+    "prompt": "To get a boost similar to nitro",
+    "advice": "ask your mechanic"
+  },
+  {
+    "prompt": "To get a boost similar to nitro",
+    "advice": "go on a rollercoaster"
+  },
+  {
+    "prompt": "To increase alertness",
+    "advice": "try drinking some caffeine"
+  },
+  {
+    "prompt": "To increase alertness",
+    "advice": "do exercise"
+  },
+  {
+    "prompt": "To increase alertness",
+    "advice": "have a cup of coffee"
+  },
+  {
+    "prompt": "If you see debree on the highway",
+    "advice": "avoid colliding into it"
+  },
+  {
+    "prompt": "If you see debree on the highway",
+    "advice": "drive around it"
+  },
+  {
+    "prompt": "If you see debree on the highway",
+    "advice": "slow down and drive around it"
+  },
+  {
+    "prompt": "If your friend begins to choke on something",
+    "advice": "go over and help them out"
+  },
+  {
+    "prompt": "If your friend begins to choke on something",
+    "advice": "try to help them spit it out"
+  },
+  {
+    "prompt": "If your friend begins to choke on something",
+    "advice": "do the Heimlich maneuver"
+  },
+  {
+    "prompt": "If you want to massage your feet",
+    "advice": "do it when you have free time"
+  },
+  {
+    "prompt": "If you want to massage your feet",
+    "advice": "try rubbing them with your hands"
+  },
+  {
+    "prompt": "If you want to massage your feet",
+    "advice": "get a masseuse"
+  },
+  {
+    "prompt": "To remove lightbulbs more easily",
+    "advice": "use a glove"
+  },
+  {
+    "prompt": "To remove lightbulbs more easily",
+    "advice": "make sure you have a good grip"
+  },
+  {
+    "prompt": "To remove lightbulbs more easily",
+    "advice": "have a good grip"
+  },
+  {
+    "prompt": "If you have a bad sense of smell",
+    "advice": "focus on improving your other senses"
+  },
+  {
+    "prompt": "If you have a bad sense of smell",
+    "advice": "get checked out at an ENT"
+  },
+  {
+    "prompt": "If you have a bad sense of smell",
+    "advice": "hone your other senses instead"
+  },
+  {
+    "prompt": "If you are attacked by a black bear",
+    "advice": "run away"
+  },
+  {
+    "prompt": "If you are attacked by a black bear",
+    "advice": "fight back and run away"
+  },
+  {
+    "prompt": "If you are attacked by a black bear",
+    "advice": "try spraying bear spray at it"
+  },
+  {
+    "prompt": "If you need to do something while driving",
+    "advice": "pull over the car first"
+  },
+  {
+    "prompt": "If you need to do something while driving",
+    "advice": "make sure to pull over first"
+  },
+  {
+    "prompt": "If you need to do something while driving",
+    "advice": "pull over to the side where it is safe"
+  },
+  {
+    "prompt": "If your garage is cold",
+    "advice": "try turning up the heat next time"
+  },
+  {
+    "prompt": "If your garage is cold",
+    "advice": "wear a coat"
+  },
+  {
+    "prompt": "If your garage is cold",
+    "advice": "turn on the heat"
+  },
+  {
+    "prompt": "If you need antibiotics",
+    "advice": "get a prescription from your doctor"
+  },
+  {
+    "prompt": "If you need antibiotics",
+    "advice": "make an appointment with a doctor. "
+  },
+  {
+    "prompt": "If you need antibiotics",
+    "advice": "go to the doctor and get a checkup"
+  },
+  {
+    "prompt": "If the wall socket is too tight for a plug to fit in",
+    "advice": "try a different socket"
+  },
+  {
+    "prompt": "If the wall socket is too tight for a plug to fit in",
+    "advice": "find another socket"
+  },
+  {
+    "prompt": "If the wall socket is too tight for a plug to fit in",
+    "advice": "call an electrician"
+  },
+  {
+    "prompt": "To purify water",
+    "advice": "boiled it for several minutes"
+  },
+  {
+    "prompt": "To purify water",
+    "advice": "run it through a filter"
+  },
+  {
+    "prompt": "To purify water",
+    "advice": "use a filter"
+  },
+  {
+    "prompt": "If you are drunk and afraid of a hangover",
+    "advice": "drink lots of water"
+  },
+  {
+    "prompt": "If you are drunk and afraid of a hangover",
+    "advice": "stop drinking"
+  },
+  {
+    "prompt": "If you are drunk and afraid of a hangover",
+    "advice": "drink lots of water"
+  },
+  {
+    "prompt": "If you don't have a babysitter",
+    "advice": "try to ask your siblings"
+  },
+  {
+    "prompt": "If you don't have a babysitter",
+    "advice": "try to get one"
+  },
+  {
+    "prompt": "If you don't have a babysitter",
+    "advice": "ask relatives if they can help"
+  },
+  {
+    "prompt": "If you don't trust a mechanic",
+    "advice": "find a new one"
+  },
+  {
+    "prompt": "If you don't trust a mechanic",
+    "advice": "look up the reviews"
+  },
+  {
+    "prompt": "If you don't trust a mechanic",
+    "advice": "don't leave him alone with your car"
+  },
+  {
+    "prompt": "If you think you found asbestos",
+    "advice": "get someone to remove it"
+  },
+  {
+    "prompt": "If you think you found asbestos",
+    "advice": "call a specialist to remove it"
+  },
+  {
+    "prompt": "If you think you found asbestos",
+    "advice": "call an inspector"
+  },
+  {
+    "prompt": "If you smell a gas leak in the house",
+    "advice": "do not go inside"
+  },
+  {
+    "prompt": "If you smell a gas leak in the house",
+    "advice": "get out of the building"
+  },
+  {
+    "prompt": "If you smell a gas leak in the house",
+    "advice": "call the fire department"
+  },
+  {
+    "prompt": "To thaw out frozen turkey",
+    "advice": "put it in the fridge"
+  },
+  {
+    "prompt": "To thaw out frozen turkey",
+    "advice": "put it in the fridge for a few days"
+  },
+  {
+    "prompt": "To thaw out frozen turkey",
+    "advice": "put it in the refrigerator"
+  },
+  {
+    "prompt": "If you want to be cool",
+    "advice": "wear some sunglasses"
+  },
+  {
+    "prompt": "If you want to be cool",
+    "advice": "wear some cool sunglasses"
+  },
+  {
+    "prompt": "If you want to be cool",
+    "advice": "wear nice clothes"
+  },
+  {
+    "prompt": "When heating up leftovers in the microwave",
+    "advice": "be careful when moving it"
+  },
+  {
+    "prompt": "When heating up leftovers in the microwave",
+    "advice": "wait for the plate to cool off before you grab it"
+  },
+  {
+    "prompt": "When heating up leftovers in the microwave",
+    "advice": "be careful not to overheat"
+  },
+  {
+    "prompt": "When throwing a party with a pi\u00f1ata",
+    "advice": "always give enough room"
+  },
+  {
+    "prompt": "When throwing a party with a pi\u00f1ata",
+    "advice": "make sure it has candy inside"
+  },
+  {
+    "prompt": "When throwing a party with a pi\u00f1ata",
+    "advice": "make sure no one is behind the person with the bat"
+  },
+  {
+    "prompt": "If gas prices are at record lows",
+    "advice": "you should stock up"
+  },
+  {
+    "prompt": "If gas prices are at record lows",
+    "advice": "buy some gas"
+  },
+  {
+    "prompt": "If gas prices are at record lows",
+    "advice": "take a road trip"
+  },
+  {
+    "prompt": "If you have a case of the shivers",
+    "advice": "get a warm blanket"
+  },
+  {
+    "prompt": "If you have a case of the shivers",
+    "advice": "get a blanket"
+  },
+  {
+    "prompt": "If you have a case of the shivers",
+    "advice": "put on warmer clothes"
+  },
+  {
+    "prompt": "If your earbuds keep getting pulled out while exercising",
+    "advice": "try using headphones"
+  },
+  {
+    "prompt": "If your earbuds keep getting pulled out while exercising",
+    "advice": "get wireless earbuds"
+  },
+  {
+    "prompt": "If your earbuds keep getting pulled out while exercising",
+    "advice": "buy wireless earbuds"
+  },
+  {
+    "prompt": "If you are sick",
+    "advice": "drink water and rest"
+  },
+  {
+    "prompt": "If you are sick",
+    "advice": "get plenty of rest"
+  },
+  {
+    "prompt": "If you are sick",
+    "advice": "get rest and drink water"
+  },
+  {
+    "prompt": "If you enjoy waking up to the smell of freshly baked bread",
+    "advice": "have someone else make bread and take a nap while they make it"
+  },
+  {
+    "prompt": "If you enjoy waking up to the smell of freshly baked bread",
+    "advice": "move next to a bakery"
+  },
+  {
+    "prompt": "If you enjoy waking up to the smell of freshly baked bread",
+    "advice": "move into a loft above a bakery"
+  },
+  {
+    "prompt": "When driving in heavy rain",
+    "advice": "make sure you slow down"
+  },
+  {
+    "prompt": "When driving in heavy rain",
+    "advice": "drive slowly and stay alert"
+  },
+  {
+    "prompt": "When driving in heavy rain",
+    "advice": "drive slowly"
+  },
+  {
+    "prompt": "When changing oil in the winter",
+    "advice": "make sure you wear gloves"
+  },
+  {
+    "prompt": "When changing oil in the winter",
+    "advice": "take your car to a mechanic"
+  },
+  {
+    "prompt": "When changing oil in the winter",
+    "advice": "make sure to wear some gloves"
+  },
+  {
+    "prompt": "If the car behind you is really close",
+    "advice": "pull off to the side and let them pass"
+  },
+  {
+    "prompt": "If the car behind you is really close",
+    "advice": "move to the side"
+  },
+  {
+    "prompt": "If the car behind you is really close",
+    "advice": "don't slam on your breaks"
+  },
+  {
+    "prompt": "If it is cold outside",
+    "advice": "wear warm clothes"
+  },
+  {
+    "prompt": "If it is cold outside",
+    "advice": "put your hat and mittens on"
+  },
+  {
+    "prompt": "If it is cold outside",
+    "advice": "put on plenty of warm clothes"
+  },
+  {
+    "prompt": "If you can't decide between ammonia and bleach",
+    "advice": "flip a coin to decide which one to use"
+  },
+  {
+    "prompt": "If you can't decide between ammonia and bleach",
+    "advice": "read the care instructions"
+  },
+  {
+    "prompt": "If you can't decide between ammonia and bleach",
+    "advice": "just use bleach and save ammonia for next time"
+  },
+  {
+    "prompt": "Instead of thawing the turkey in the fridge",
+    "advice": "put it under some running water"
+  },
+  {
+    "prompt": "Instead of thawing the turkey in the fridge",
+    "advice": "you can thaw it in some cold water"
+  },
+  {
+    "prompt": "Instead of thawing the turkey in the fridge",
+    "advice": "put it in cool water"
+  },
+  {
+    "prompt": "If you are vomiting blood and don't have control of your bowels",
+    "advice": "go to the hospital"
+  },
+  {
+    "prompt": "If you are vomiting blood and don't have control of your bowels",
+    "advice": "go to the doctor"
+  },
+  {
+    "prompt": "If you are vomiting blood and don't have control of your bowels",
+    "advice": "call an ambulance"
+  },
+  {
+    "prompt": "If you need to lose weight",
+    "advice": "start to exercise"
+  },
+  {
+    "prompt": "If you need to lose weight",
+    "advice": "eat a healthier diet"
+  },
+  {
+    "prompt": "If you need to lose weight",
+    "advice": "try drinking more water"
+  },
+  {
+    "prompt": "If you feel tired when you wake up in the morning",
+    "advice": "go to bed earlier"
+  },
+  {
+    "prompt": "If you feel tired when you wake up in the morning",
+    "advice": "go to sleep earlier in the night"
+  },
+  {
+    "prompt": "If you feel tired when you wake up in the morning",
+    "advice": "have a cup of coffee"
+  },
+  {
+    "prompt": "To put out a grease fire",
+    "advice": "put baking soda on it"
+  },
+  {
+    "prompt": "To put out a grease fire",
+    "advice": "use a metal lid to seal off air"
+  },
+  {
+    "prompt": "To put out a grease fire",
+    "advice": "smother it with baking soda"
+  },
+  {
+    "prompt": "To remove odors in enclosed spaces",
+    "advice": "use some fragrant spray"
+  },
+  {
+    "prompt": "To remove odors in enclosed spaces",
+    "advice": "use baking soda to remove the odor"
+  },
+  {
+    "prompt": "To remove odors in enclosed spaces",
+    "advice": "use some air freshener"
+  },
+  {
+    "prompt": "If you have trouble taking your pain meds",
+    "advice": "get help from a doctor"
+  },
+  {
+    "prompt": "If you have trouble taking your pain meds",
+    "advice": "drink a liquid with it"
+  },
+  {
+    "prompt": "If you have trouble taking your pain meds",
+    "advice": "take them with some food"
+  },
+  {
+    "prompt": "If you are worried that someone has slipped poison in your drink",
+    "advice": "throw away the drink"
+  },
+  {
+    "prompt": "If you are worried that someone has slipped poison in your drink",
+    "advice": "discard the drink"
+  },
+  {
+    "prompt": "If you are worried that someone has slipped poison in your drink",
+    "advice": "throw the drink away"
+  },
+  {
+    "prompt": "If you can't afford fancy earrings",
+    "advice": "get a better paying job"
+  },
+  {
+    "prompt": "If you can't afford fancy earrings",
+    "advice": "get knock off ones"
+  },
+  {
+    "prompt": "If you can't afford fancy earrings",
+    "advice": "buy cheap earrings"
+  },
+  {
+    "prompt": "To make an ultra cleaner",
+    "advice": "use a good cleaning solution"
+  },
+  {
+    "prompt": "To make an ultra cleaner",
+    "advice": "Mix vinegar with a little dish soap and water"
+  },
+  {
+    "prompt": "To make an ultra cleaner",
+    "advice": "mix baking soda, vinegar and dish soap"
+  },
+  {
+    "prompt": "If you have trouble sleeping",
+    "advice": "try to drink warm milk"
+  },
+  {
+    "prompt": "If you have trouble sleeping",
+    "advice": "drink some soothing tea"
+  },
+  {
+    "prompt": "If you have trouble sleeping",
+    "advice": "try counting sheep"
+  },
+  {
+    "prompt": "To make healthy donuts",
+    "advice": "do not deep fry them"
+  },
+  {
+    "prompt": "To make healthy donuts",
+    "advice": "look up a healthy recipe"
+  },
+  {
+    "prompt": "To make healthy donuts",
+    "advice": "use gluten free flour"
+  },
+  {
+    "prompt": "If you are homeless, broke, and hungry",
+    "advice": "try getting help from friends"
+  },
+  {
+    "prompt": "If you are homeless, broke, and hungry",
+    "advice": "go to a homeless shelter"
+  },
+  {
+    "prompt": "If you are homeless, broke, and hungry",
+    "advice": "get a job"
+  },
+  {
+    "prompt": "If you're lactose intolerant",
+    "advice": "drink lactose free milk"
+  },
+  {
+    "prompt": "If you're lactose intolerant",
+    "advice": "avoid eating or drinking milk and dairy products"
+  },
+  {
+    "prompt": "If you're lactose intolerant",
+    "advice": "shop for plant-based alternatives"
+  },
+  {
+    "prompt": "If you have a small pet during the summer",
+    "advice": "make sure they stay hydrated"
+  },
+  {
+    "prompt": "If you have a small pet during the summer",
+    "advice": "make sure they have access to water"
+  },
+  {
+    "prompt": "If you have a small pet during the summer",
+    "advice": "make sure it does not get overheated"
+  },
+  {
+    "prompt": "If someone accidentally touches a live wire",
+    "advice": "take them to the hospital"
+  },
+  {
+    "prompt": "If someone accidentally touches a live wire",
+    "advice": "make sure they are not injured"
+  },
+  {
+    "prompt": "If someone accidentally touches a live wire",
+    "advice": "call an ambulance"
+  },
+  {
+    "prompt": "If you're unsure whether or not a stove burner is still hot after cooking something",
+    "advice": "do not touch it"
+  },
+  {
+    "prompt": "If you're unsure whether or not a stove burner is still hot after cooking something",
+    "advice": "drop a few drops of water to see if they evaporate immediately"
+  },
+  {
+    "prompt": "If you're unsure whether or not a stove burner is still hot after cooking something",
+    "advice": "assume it is hot still and don't touch it"
+  },
+  {
+    "prompt": "If your friend has heat exhaustion",
+    "advice": "get them some water"
+  },
+  {
+    "prompt": "If your friend has heat exhaustion",
+    "advice": "try cooling them off"
+  },
+  {
+    "prompt": "If your friend has heat exhaustion",
+    "advice": "get them some water"
+  },
+  {
+    "prompt": "If you are drunk and need to drive home",
+    "advice": "call a taxi"
+  },
+  {
+    "prompt": "If you are drunk and need to drive home",
+    "advice": "call a taxi instead"
+  },
+  {
+    "prompt": "If you are drunk and need to drive home",
+    "advice": "call a cab instead"
+  },
+  {
+    "prompt": "If you are tired of getting an erection in awkward situations",
+    "advice": "talk to your doctor for help"
+  },
+  {
+    "prompt": "If you are tired of getting an erection in awkward situations",
+    "advice": "focus on something else"
+  },
+  {
+    "prompt": "If you are tired of getting an erection in awkward situations",
+    "advice": "try to focus on other thoughts"
+  },
+  {
+    "prompt": "To avoid hydroplaning",
+    "advice": "drive slowly in the rain"
+  },
+  {
+    "prompt": "To avoid hydroplaning",
+    "advice": "drive slowly"
+  },
+  {
+    "prompt": "To avoid hydroplaning",
+    "advice": "don't drive too fast when it's raining"
+  },
+  {
+    "prompt": "If you want to have a laser eye surgery and cannot afford it",
+    "advice": "get help from friends"
+  },
+  {
+    "prompt": "If you want to have a laser eye surgery and cannot afford it",
+    "advice": "get a better paying job"
+  },
+  {
+    "prompt": "If you want to have a laser eye surgery and cannot afford it",
+    "advice": "wear glasses"
+  },
+  {
+    "prompt": "If you can't figure out which wire is hot, neutral, or ground",
+    "advice": "use a multimeter to help test"
+  },
+  {
+    "prompt": "If you can't figure out which wire is hot, neutral, or ground",
+    "advice": "leave it for a professional to figure out"
+  },
+  {
+    "prompt": "If you can't figure out which wire is hot, neutral, or ground",
+    "advice": "call an electrician"
+  },
+  {
+    "prompt": "If you ever get stuck with a dirty and possibly infected needle",
+    "advice": "go to the hospital"
+  },
+  {
+    "prompt": "If you ever get stuck with a dirty and possibly infected needle",
+    "advice": "throw it away"
+  },
+  {
+    "prompt": "If you ever get stuck with a dirty and possibly infected needle",
+    "advice": "go to the hospital right away"
+  },
+  {
+    "prompt": "To find tiny hand cuts after a long day of woodworking",
+    "advice": "clean them with soap"
+  },
+  {
+    "prompt": "To find tiny hand cuts after a long day of woodworking",
+    "advice": "look at your hands in a well lit room"
+  },
+  {
+    "prompt": "To find tiny hand cuts after a long day of woodworking",
+    "advice": "use soap to clean your hands"
+  },
+  {
+    "prompt": "When you see a flying aircraft",
+    "advice": "imagine how high up they are"
+  },
+  {
+    "prompt": "When you see a flying aircraft",
+    "advice": "watch it fly away"
+  },
+  {
+    "prompt": "When you see a flying aircraft",
+    "advice": "appreciate its beauty"
+  },
+  {
+    "prompt": "If you accidentally painted over your wall outlet",
+    "advice": "replace the wall outlet"
+  },
+  {
+    "prompt": "If you accidentally painted over your wall outlet",
+    "advice": "replace it with a new outlet"
+  },
+  {
+    "prompt": "If you accidentally painted over your wall outlet",
+    "advice": "replace it with a new outlet"
+  },
+  {
+    "prompt": "To make messy tangles of wires manageable",
+    "advice": "tape them into groups"
+  },
+  {
+    "prompt": "To make messy tangles of wires manageable",
+    "advice": "use zip ties to manage them"
+  },
+  {
+    "prompt": "To make messy tangles of wires manageable",
+    "advice": "separate them and roll them up"
+  },
+  {
+    "prompt": "To make it easier to spread butter",
+    "advice": "use room temperature butter"
+  },
+  {
+    "prompt": "To make it easier to spread butter",
+    "advice": "heat the butter"
+  },
+  {
+    "prompt": "To make it easier to spread butter",
+    "advice": "take the butter out of the refrigerator for a while"
+  },
+  {
+    "prompt": "To stop your propane bbq grill from rusting",
+    "advice": "always cover it from rain"
+  },
+  {
+    "prompt": "To stop your propane bbq grill from rusting",
+    "advice": "make sure it's out of the rain"
+  },
+  {
+    "prompt": "To stop your propane bbq grill from rusting",
+    "advice": "store it in a covered area. "
+  },
+  {
+    "prompt": "When trying to put a wetsuit on",
+    "advice": "put your legs through the holes first"
+  },
+  {
+    "prompt": "When trying to put a wetsuit on",
+    "advice": "put on the wetsuit in water"
+  },
+  {
+    "prompt": "When trying to put a wetsuit on",
+    "advice": "put your legs through first"
+  },
+  {
+    "prompt": "If you get water in your ears",
+    "advice": "tilt your head to its side"
+  },
+  {
+    "prompt": "If you get water in your ears",
+    "advice": "wait for the water to fall out"
+  },
+  {
+    "prompt": "If you get water in your ears",
+    "advice": "drain your ear canal"
+  },
+  {
+    "prompt": "To listen to music in the shower",
+    "advice": "get a bluetooth speaker"
+  },
+  {
+    "prompt": "To listen to music in the shower",
+    "advice": "get a Bluetooth speaker"
+  },
+  {
+    "prompt": "To listen to music in the shower",
+    "advice": "get a waterproof speaker"
+  },
+  {
+    "prompt": "To help your depression and anxiety",
+    "advice": "go see a psychiatrist"
+  },
+  {
+    "prompt": "To help your depression and anxiety",
+    "advice": "talk to a psychologist"
+  },
+  {
+    "prompt": "To help your depression and anxiety",
+    "advice": "go see a psychiatrist"
+  },
+  {
+    "prompt": "If you are feeling sick",
+    "advice": "drink water and get rest"
+  },
+  {
+    "prompt": "If you are feeling sick",
+    "advice": "take medicine"
+  },
+  {
+    "prompt": "If you are feeling sick",
+    "advice": "get plenty of rest"
+  },
+  {
+    "prompt": "If you're getting sleepy behind the wheel",
+    "advice": "pull over and rest"
+  },
+  {
+    "prompt": "If you're getting sleepy behind the wheel",
+    "advice": "pull over and have someone else drive or get rest"
+  },
+  {
+    "prompt": "If you're getting sleepy behind the wheel",
+    "advice": "pull over and call someone to pick you up"
+  },
+  {
+    "prompt": "If the heat in your car doesn't work",
+    "advice": "then stop off somewhere to get warm"
+  },
+  {
+    "prompt": "If the heat in your car doesn't work",
+    "advice": "take it to a mechanic"
+  },
+  {
+    "prompt": "If the heat in your car doesn't work",
+    "advice": "put on a jacket"
+  },
+  {
+    "prompt": "If you smell natural gas",
+    "advice": "get out of the building"
+  },
+  {
+    "prompt": "If you smell natural gas",
+    "advice": "call the fire department"
+  },
+  {
+    "prompt": "If you smell natural gas",
+    "advice": "get out of the building"
+  },
+  {
+    "prompt": "To avoid tears while chopping onions",
+    "advice": "cut it under cold water"
+  },
+  {
+    "prompt": "To avoid tears while chopping onions",
+    "advice": "wear goggles"
+  },
+  {
+    "prompt": "To avoid tears while chopping onions",
+    "advice": "bite on a wooden pencil"
+  },
+  {
+    "prompt": "To avoid accidentally cutting anyone nearby",
+    "advice": "put your knife in its sheath"
+  },
+  {
+    "prompt": "To avoid accidentally cutting anyone nearby",
+    "advice": "make sure you are away from others when you cut"
+  },
+  {
+    "prompt": "To avoid accidentally cutting anyone nearby",
+    "advice": "hold the knife firmly"
+  },
+  {
+    "prompt": "If you are impatient for the bath to warm up",
+    "advice": "try reading a book"
+  },
+  {
+    "prompt": "If you are impatient for the bath to warm up",
+    "advice": "read a book until it's finished warming up"
+  },
+  {
+    "prompt": "If you are impatient for the bath to warm up",
+    "advice": "add more hot water"
+  },
+  {
+    "prompt": "If you are an alcoholic and feeling down",
+    "advice": "go for a walk to enjoy the natural endorphins"
+  },
+  {
+    "prompt": "If you are an alcoholic and feeling down",
+    "advice": "find a local Alcoholics Anonymous meeting"
+  },
+  {
+    "prompt": "If you are an alcoholic and feeling down",
+    "advice": "try getting some support from a friend"
+  },
+  {
+    "prompt": "To steralize your silverware",
+    "advice": "wash them with soap and hot water"
+  },
+  {
+    "prompt": "To steralize your silverware",
+    "advice": "buy bleach"
+  },
+  {
+    "prompt": "If you sweat too much",
+    "advice": "try an antiperspirant"
+  },
+  {
+    "prompt": "If you sweat too much",
+    "advice": "drink more water"
+  },
+  {
+    "prompt": "If you sweat too much",
+    "advice": "use a clinical strength deodorant"
+  },
+  {
+    "prompt": "If you need to get somewhere quickly",
+    "advice": "use your car"
+  },
+  {
+    "prompt": "If you need to get somewhere quickly",
+    "advice": "use Google maps"
+  },
+  {
+    "prompt": "If you need to get somewhere quickly",
+    "advice": "get in your car"
+  },
+  {
+    "prompt": "To get extra bass when listening to music",
+    "advice": "get higher quality headphones"
+  },
+  {
+    "prompt": "To get extra bass when listening to music",
+    "advice": "buy speakers with extra bass"
+  },
+  {
+    "prompt": "To get extra bass when listening to music",
+    "advice": "buy some better quality headphones"
+  },
+  {
+    "prompt": "To avoid hitting other drivers while driving",
+    "advice": "stay alert and in your lane"
+  },
+  {
+    "prompt": "To avoid hitting other drivers while driving",
+    "advice": "drive carefully"
+  },
+  {
+    "prompt": "To avoid hitting other drivers while driving",
+    "advice": "stay alert and avoid other drivers"
+  },
+  {
+    "prompt": "If your girlfriend is not talking to you",
+    "advice": "give her some space"
+  },
+  {
+    "prompt": "If your girlfriend is not talking to you",
+    "advice": "ask her what is wrong"
+  },
+  {
+    "prompt": "If your girlfriend is not talking to you",
+    "advice": "give her some space"
+  },
+  {
+    "prompt": "When an elderly relative falls over",
+    "advice": "go over and help them out"
+  },
+  {
+    "prompt": "When an elderly relative falls over",
+    "advice": "help them back up and make sure they're ok"
+  },
+  {
+    "prompt": "When an elderly relative falls over",
+    "advice": "help them up"
+  },
+  {
+    "prompt": "To increase fuel mileage",
+    "advice": "keep your tire pressure up"
+  },
+  {
+    "prompt": "To increase fuel mileage",
+    "advice": "get a more efficient vehicle"
+  },
+  {
+    "prompt": "To increase fuel mileage",
+    "advice": "drive at a good speed"
+  },
+  {
+    "prompt": "If you need callouses to protect your hands",
+    "advice": "use them often for work"
+  },
+  {
+    "prompt": "If you need callouses to protect your hands",
+    "advice": "use gloves instead"
+  },
+  {
+    "prompt": "If you need callouses to protect your hands",
+    "advice": "play an instrument"
+  },
+  {
+    "prompt": "When frying food at home",
+    "advice": "make sure you turn the heat off when you're finished"
+  },
+  {
+    "prompt": "When frying food at home",
+    "advice": "wear gloves"
+  },
+  {
+    "prompt": "When frying food at home",
+    "advice": "make sure you know what to do in case of a grease fire"
+  },
+  {
+    "prompt": "If you accidentally consumed poison",
+    "advice": "go to the hospital"
+  },
+  {
+    "prompt": "If you accidentally consumed poison",
+    "advice": "call 911"
+  },
+  {
+    "prompt": "If you accidentally consumed poison",
+    "advice": "go to the hospital"
+  },
+  {
+    "prompt": "If you want to know how sharp a knife is",
+    "advice": "inspect the blade"
+  },
+  {
+    "prompt": "If you want to know how sharp a knife is",
+    "advice": "try cutting a tomato"
+  },
+  {
+    "prompt": "If you want to know how sharp a knife is",
+    "advice": "try cutting something with it"
+  },
+  {
+    "prompt": "To avoid dying in a car accident",
+    "advice": "wear your seatbelt"
+  },
+  {
+    "prompt": "To avoid dying in a car accident",
+    "advice": "wear your seatbelt"
+  },
+  {
+    "prompt": "To avoid dying in a car accident",
+    "advice": "always wear your seatbelt"
+  },
+  {
+    "prompt": "If you cannot afford an inhaler",
+    "advice": "try to get money from your friend"
+  },
+  {
+    "prompt": "If you cannot afford an inhaler",
+    "advice": "get a better paying job"
+  },
+  {
+    "prompt": "If you cannot afford an inhaler",
+    "advice": "try to borrow some money"
+  },
+  {
+    "prompt": "If you are in the ocean and see a jellyfish",
+    "advice": "get out of the water"
+  },
+  {
+    "prompt": "If you are in the ocean and see a jellyfish",
+    "advice": "swim far away from it"
+  },
+  {
+    "prompt": "If you are in the ocean and see a jellyfish",
+    "advice": "swim away from it"
+  },
+  {
+    "prompt": "To get whiter teeth",
+    "advice": "brush them every day"
+  },
+  {
+    "prompt": "To get whiter teeth",
+    "advice": " get a whitening treatment at the dentist"
+  },
+  {
+    "prompt": "To get whiter teeth",
+    "advice": "use whitening strips"
+  },
+  {
+    "prompt": "If your earbuds keep falling out",
+    "advice": "try a different brand of earbuds"
+  },
+  {
+    "prompt": "If your earbuds keep falling out",
+    "advice": "get a different pair"
+  },
+  {
+    "prompt": "If your earbuds keep falling out",
+    "advice": "try over-the-ear headphones"
+  },
+  {
+    "prompt": "When carrying something sharp",
+    "advice": "make sure the sharp end is facing away from anyone"
+  },
+  {
+    "prompt": "When carrying something sharp",
+    "advice": "make sure to be careful"
+  },
+  {
+    "prompt": "When carrying something sharp",
+    "advice": "watch your step"
+  },
+  {
+    "prompt": "To decrease your child's chances of autism",
+    "advice": "always eat the healthiest foods"
+  },
+  {
+    "prompt": "To decrease your child's chances of autism",
+    "advice": "give them positive reinforcement"
+  },
+  {
+    "prompt": "To decrease your child's chances of autism",
+    "advice": "eat healthy when you are pregnant"
+  },
+  {
+    "prompt": "Before cutting onions",
+    "advice": "run some cold water over them"
+  },
+  {
+    "prompt": "Before cutting onions",
+    "advice": "run them under cold water"
+  },
+  {
+    "prompt": "Before cutting onions",
+    "advice": "run some cold water over them"
+  },
+  {
+    "prompt": "If you want to change eye color",
+    "advice": "get some colored contacts"
+  },
+  {
+    "prompt": "If you want to change eye color",
+    "advice": "buy contacts that change your eye color"
+  },
+  {
+    "prompt": "If you want to change eye color",
+    "advice": "wear colored contacts"
+  },
+  {
+    "prompt": "If your spray cans start running out",
+    "advice": "buy some new ones"
+  },
+  {
+    "prompt": "If your spray cans start running out",
+    "advice": "purchase new ones"
+  },
+  {
+    "prompt": "If your spray cans start running out",
+    "advice": "buy new ones"
+  },
+  {
+    "prompt": "If your garage is too cold in the morning before starting up your car",
+    "advice": "run a portable heater"
+  },
+  {
+    "prompt": "If your garage is too cold in the morning before starting up your car",
+    "advice": "put on a jacket"
+  },
+  {
+    "prompt": "If your garage is too cold in the morning before starting up your car",
+    "advice": "upgrade your insulation"
+  },
+  {
+    "prompt": "If you ever come across a deer on the road",
+    "advice": "always give it room to move"
+  },
+  {
+    "prompt": "If you ever come across a deer on the road",
+    "advice": "avoid it so you don't hit it"
+  },
+  {
+    "prompt": "If you ever come across a deer on the road",
+    "advice": "don't approach it"
+  },
+  {
+    "prompt": "If you see a half smoked cigarette on the ground",
+    "advice": "make sure it's put out and throw it away"
+  },
+  {
+    "prompt": "If you see a half smoked cigarette on the ground",
+    "advice": "put it out and throw it away"
+  },
+  {
+    "prompt": "If you see a half smoked cigarette on the ground",
+    "advice": "find a way to safely dispose of it"
+  },
+  {
+    "prompt": "If you are trying to reduce your caffeine intake",
+    "advice": "drink less coffee in the morning"
+  },
+  {
+    "prompt": "If you are trying to reduce your caffeine intake",
+    "advice": "try switching from coffee to tea"
+  },
+  {
+    "prompt": "If you are trying to reduce your caffeine intake",
+    "advice": "drink less coffee"
+  },
+  {
+    "prompt": "To prevent your food from drying out in the microwave",
+    "advice": "put a damp paper towel over the food"
+  },
+  {
+    "prompt": "To prevent your food from drying out in the microwave",
+    "advice": "cover the food"
+  },
+  {
+    "prompt": "To prevent your food from drying out in the microwave",
+    "advice": "heat it up in the oven"
+  },
+  {
+    "prompt": "If you lose something in the garbage disposal",
+    "advice": "make sure the garbage disposal is disabled"
+  },
+  {
+    "prompt": "If you lose something in the garbage disposal",
+    "advice": "turn it off"
+  },
+  {
+    "prompt": "If you lose something in the garbage disposal",
+    "advice": "call a plumber"
+  },
+  {
+    "prompt": "If your carbon monoxide alarm goes off",
+    "advice": "get out of the house"
+  },
+  {
+    "prompt": "If your carbon monoxide alarm goes off",
+    "advice": "get out of the building"
+  },
+  {
+    "prompt": "If your carbon monoxide alarm goes off",
+    "advice": "inspect the cause"
+  },
+  {
+    "prompt": "When shaving facial hair with an electric razor",
+    "advice": "go slowly"
+  },
+  {
+    "prompt": "When shaving facial hair with an electric razor",
+    "advice": "don't press too hard"
+  },
+  {
+    "prompt": "When shaving facial hair with an electric razor",
+    "advice": "clean your face"
+  },
+  {
+    "prompt": "When lighting bottlerockets",
+    "advice": "be careful where it takes off to"
+  },
+  {
+    "prompt": "When lighting bottlerockets",
+    "advice": "face them away and set them on the ground"
+  },
+  {
+    "prompt": "When lighting bottlerockets",
+    "advice": "stay away from others"
+  },
+  {
+    "prompt": "If you need to send a text while driving",
+    "advice": "pull over the car first"
+  },
+  {
+    "prompt": "If you need to send a text while driving",
+    "advice": "pull over and park the car before texting"
+  },
+  {
+    "prompt": "If you need to send a text while driving",
+    "advice": "pull over in a safe parking lot first"
+  },
+  {
+    "prompt": "If you have stubborn acne",
+    "advice": "get some medication to help"
+  },
+  {
+    "prompt": "If you have stubborn acne",
+    "advice": "try using acne cream"
+  },
+  {
+    "prompt": "If you have stubborn acne",
+    "advice": "wash your face"
+  },
+  {
+    "prompt": "If you burn your tongue",
+    "advice": "don't bother it and let it heal"
+  },
+  {
+    "prompt": "If you burn your tongue",
+    "advice": "don't eat anything that could irritate it until it heals"
+  },
+  {
+    "prompt": "If you burn your tongue",
+    "advice": "put some ice water on it"
+  },
+  {
+    "prompt": "When  a tornado siren goes off",
+    "advice": "go to the basement"
+  },
+  {
+    "prompt": "When  a tornado siren goes off",
+    "advice": "hide in the basement until the tornado passes"
+  },
+  {
+    "prompt": "When  a tornado siren goes off",
+    "advice": "seek shelter immediately"
+  },
+  {
+    "prompt": "If your ice cream is too frozen to scoop",
+    "advice": "leave it out for a few minutes to thaw"
+  },
+  {
+    "prompt": "If your ice cream is too frozen to scoop",
+    "advice": "dip a metal spoon in some warm water"
+  },
+  {
+    "prompt": "If you are not shooting straight at the gun range",
+    "advice": "practice more to get better"
+  },
+  {
+    "prompt": "If you are not shooting straight at the gun range",
+    "advice": "practice your aim"
+  },
+  {
+    "prompt": "If you are not shooting straight at the gun range",
+    "advice": "practice more to get better"
+  },
+  {
+    "prompt": "If you have an old battery that is getting puffy",
+    "advice": "dispose of it safely"
+  },
+  {
+    "prompt": "If you have an old battery that is getting puffy",
+    "advice": "dispose of it safely"
+  },
+  {
+    "prompt": "If you have an old battery that is getting puffy",
+    "advice": "replace it immediately"
+  },
+  {
+    "prompt": "If your car won't start",
+    "advice": "tow it to the mechanic"
+  },
+  {
+    "prompt": "If your car won't start",
+    "advice": "check the battery"
+  },
+  {
+    "prompt": "If your car won't start",
+    "advice": "try charging the battery"
+  },
+  {
+    "prompt": "If you're allergic to peanuts",
+    "advice": "don't eat peanuts"
+  },
+  {
+    "prompt": "If you're allergic to peanuts",
+    "advice": "make sure to carry an EpiPen"
+  },
+  {
+    "prompt": "If you're allergic to peanuts",
+    "advice": "be sure to read ingredient lists carefully"
+  },
+  {
+    "prompt": "If you want to curl your hair",
+    "advice": "use a curling iron"
+  },
+  {
+    "prompt": "If you want to curl your hair",
+    "advice": "use a curling iron"
+  },
+  {
+    "prompt": "If you want to curl your hair",
+    "advice": "buy a curling iron"
+  },
+  {
+    "prompt": "To avoid spraining your ankle when going into shallow pools",
+    "advice": "try walking in slowly"
+  },
+  {
+    "prompt": "To avoid spraining your ankle when going into shallow pools",
+    "advice": "take very slow steps"
+  },
+  {
+    "prompt": "To avoid spraining your ankle when going into shallow pools",
+    "advice": "walk slowly down the steps"
+  },
+  {
+    "prompt": "If you have a bad case of diarrhea",
+    "advice": "stay near a toilet and drink water"
+  },
+  {
+    "prompt": "If you have a bad case of diarrhea",
+    "advice": "stay near the toilet"
+  },
+  {
+    "prompt": "If you have a bad case of diarrhea",
+    "advice": "take some Pepto Bismol to settle your stomach"
+  },
+  {
+    "prompt": "To heat your house in the winter",
+    "advice": "keep your furnace in good condition"
+  },
+  {
+    "prompt": "To heat your house in the winter",
+    "advice": "use the thermostat"
+  },
+  {
+    "prompt": "To heat your house in the winter",
+    "advice": "buy a gas heater"
+  },
+  {
+    "prompt": "When trying to calm an angry horse",
+    "advice": "keep a safe distance from it"
+  },
+  {
+    "prompt": "When trying to calm an angry horse",
+    "advice": "never stand behind it"
+  },
+  {
+    "prompt": "When trying to calm an angry horse",
+    "advice": "try not to scare it"
+  },
+  {
+    "prompt": "If you are scared of falling while walking down the stairs",
+    "advice": "hold on to the railing"
+  },
+  {
+    "prompt": "If you are scared of falling while walking down the stairs",
+    "advice": "use the hand rail"
+  },
+  {
+    "prompt": "If you are scared of falling while walking down the stairs",
+    "advice": "use the hand railing"
+  },
+  {
+    "prompt": "If you're underage and cannot buy alcohol",
+    "advice": "you should also refrain from drinking it"
+  },
+  {
+    "prompt": "If you're underage and cannot buy alcohol",
+    "advice": "wait until you are the legal drinking age"
+  },
+  {
+    "prompt": "If you're underage and cannot buy alcohol",
+    "advice": "try waiting until your twenty one"
+  },
+  {
+    "prompt": "If you are held at gunpoint",
+    "advice": "remain calm"
+  },
+  {
+    "prompt": "If you are held at gunpoint",
+    "advice": "stay calm and give them whatever they want"
+  },
+  {
+    "prompt": "If you are held at gunpoint",
+    "advice": "stay calm and try to find an opportunity to escape"
+  },
+  {
+    "prompt": "If you don't want to get the spins when you drink alcohol",
+    "advice": "drink less alcohol"
+  },
+  {
+    "prompt": "If you don't want to get the spins when you drink alcohol",
+    "advice": "stay away from alcohol in the first place"
+  },
+  {
+    "prompt": "If you don't want to get the spins when you drink alcohol",
+    "advice": "make sure you drink plenty of water"
+  },
+  {
+    "prompt": "If you're a baseball pitcher and want to intentionally walk a batter",
+    "advice": "throw outside the batter box"
+  },
+  {
+    "prompt": "If you're a baseball pitcher and want to intentionally walk a batter",
+    "advice": "throw it way off to the sides"
+  },
+  {
+    "prompt": "If you're a baseball pitcher and want to intentionally walk a batter",
+    "advice": "discuss it with your teammates first"
+  },
+  {
+    "prompt": "When taking your driving test",
+    "advice": "make sure you follow every law"
+  },
+  {
+    "prompt": "When taking your driving test",
+    "advice": "pay attention to the road"
+  },
+  {
+    "prompt": "When taking your driving test",
+    "advice": "follow all of the rules of the road"
+  },
+  {
+    "prompt": "If your baby has something in its eye and it hurts",
+    "advice": "take them to the doctor"
+  },
+  {
+    "prompt": "If your baby has something in its eye and it hurts",
+    "advice": "try flushing it out with water"
+  },
+  {
+    "prompt": "If your baby has something in its eye and it hurts",
+    "advice": "try flushing it with warm water"
+  },
+  {
+    "prompt": "If you want a more eco-friendly car",
+    "advice": "go to a dealer and buy one"
+  },
+  {
+    "prompt": "If you want a more eco-friendly car",
+    "advice": "get one that runs on electricity"
+  },
+  {
+    "prompt": "If you want a more eco-friendly car",
+    "advice": "buy a smaller car"
+  },
+  {
+    "prompt": "If you have dry eyes",
+    "advice": "use some eye drops"
+  },
+  {
+    "prompt": "If you have dry eyes",
+    "advice": "use some eye drops"
+  },
+  {
+    "prompt": "If you have dry eyes",
+    "advice": "put some soothing drops in them"
+  },
+  {
+    "prompt": "If you have a have a sinus infection",
+    "advice": "go see a doctor"
+  },
+  {
+    "prompt": "If you have a have a sinus infection",
+    "advice": "go to the doctor"
+  },
+  {
+    "prompt": "If you have a have a sinus infection",
+    "advice": "go to the doctor"
+  },
+  {
+    "prompt": "If you want to wear your wireless headphones in the shower",
+    "advice": "get some water proof headphones"
+  },
+  {
+    "prompt": "If you want to wear your wireless headphones in the shower",
+    "advice": "make sure they are waterproof"
+  },
+  {
+    "prompt": "If you want to wear your wireless headphones in the shower",
+    "advice": "buy a speaker instead"
+  },
+  {
+    "prompt": "When putting on a condom",
+    "advice": "make sure there are no tears anywhere"
+  },
+  {
+    "prompt": "When putting on a condom",
+    "advice": "make sure it is the correct size"
+  },
+  {
+    "prompt": "When putting on a condom",
+    "advice": "make sure there are no rips or punctures in it"
+  },
+  {
+    "prompt": "If you come across a cobra and it stands up",
+    "advice": "run away"
+  },
+  {
+    "prompt": "If you come across a cobra and it stands up",
+    "advice": "get away from it"
+  },
+  {
+    "prompt": "If you come across a cobra and it stands up",
+    "advice": "do not approach the cobra"
+  },
+  {
+    "prompt": "To build up your immune system",
+    "advice": "have a healthy lifestyle"
+  },
+  {
+    "prompt": "To build up your immune system",
+    "advice": "take vitamins and eat vegetables"
+  },
+  {
+    "prompt": "To build up your immune system",
+    "advice": "take vitamins"
+  },
+  {
+    "prompt": "If you are feeling drowsy while driving",
+    "advice": "stop at a hotel and sleep"
+  },
+  {
+    "prompt": "If you are feeling drowsy while driving",
+    "advice": "pull over and take a break"
+  },
+  {
+    "prompt": "If you are feeling drowsy while driving",
+    "advice": "drink caffeine or take a rest"
+  },
+  {
+    "prompt": "If you have moldy leftovers",
+    "advice": "just throw them out"
+  },
+  {
+    "prompt": "If you have moldy leftovers",
+    "advice": "throw them away"
+  },
+  {
+    "prompt": "If you have moldy leftovers",
+    "advice": "throw them out immediately"
+  },
+  {
+    "prompt": "If you are getting surgery and don't have health insurance",
+    "advice": "see if the hospital provides financial assistance"
+  },
+  {
+    "prompt": "If you are getting surgery and don't have health insurance",
+    "advice": "ask the hospital about self-pay discounts"
+  },
+  {
+    "prompt": "If you are getting surgery and don't have health insurance",
+    "advice": "ask the hospital for information about their financial assistance program"
+  },
+  {
+    "prompt": "To keep your hands warm in the winter",
+    "advice": "wear thick gloves"
+  },
+  {
+    "prompt": "To keep your hands warm in the winter",
+    "advice": "wear gloves"
+  },
+  {
+    "prompt": "To keep your hands warm in the winter",
+    "advice": "wear gloves when you go outside"
+  },
+  {
+    "prompt": "To speed up your morning routine",
+    "advice": "plan a more efficient route"
+  },
+  {
+    "prompt": "To speed up your morning routine",
+    "advice": "lay out your clothes and pack your lunch the night before"
+  },
+  {
+    "prompt": "To speed up your morning routine",
+    "advice": "plan ahead for a more efficient route to get everything done"
+  },
+  {
+    "prompt": "To save money on teeth-whitening",
+    "advice": "use the correct toothpaste"
+  },
+  {
+    "prompt": "To save money on teeth-whitening",
+    "advice": "look for a coupon for teeth whitening strips"
+  },
+  {
+    "prompt": "To save money on teeth-whitening",
+    "advice": "look for coupons for tooth whitening supplies"
+  },
+  {
+    "prompt": "If you see an unidentified clear liquid",
+    "advice": "stay away from it"
+  },
+  {
+    "prompt": "If you see an unidentified clear liquid",
+    "advice": "do not taste it to identify it"
+  },
+  {
+    "prompt": "If you see an unidentified clear liquid",
+    "advice": "stay away from it"
+  },
+  {
+    "prompt": "If you want a jacuzzi",
+    "advice": "research upkeep cost and how much they cost"
+  },
+  {
+    "prompt": "If you want a jacuzzi",
+    "advice": "read some reviews before buying one"
+  },
+  {
+    "prompt": "If you want a jacuzzi",
+    "advice": "save up money to buy a jacuzzi"
+  },
+  {
+    "prompt": "If you have a busy week ahead and are worried you won't get any sleep",
+    "advice": "plan ahead so you get some sleep"
+  },
+  {
+    "prompt": "If you have a busy week ahead and are worried you won't get any sleep",
+    "advice": "reschedule some of your plans for the following week"
+  },
+  {
+    "prompt": "If you have a busy week ahead and are worried you won't get any sleep",
+    "advice": "try and make your schedule shorter"
+  },
+  {
+    "prompt": "If you are traveling and need an outlet converter",
+    "advice": "buy one from a store"
+  },
+  {
+    "prompt": "If you are traveling and need an outlet converter",
+    "advice": "buy one at the airport"
+  },
+  {
+    "prompt": "If you are traveling and need an outlet converter",
+    "advice": "find an electronics store to stop at"
+  },
+  {
+    "prompt": "If you want a deeper voice",
+    "advice": "take years of voice lessons"
+  },
+  {
+    "prompt": "If you want a deeper voice",
+    "advice": "get vocal training"
+  },
+  {
+    "prompt": "If you want a deeper voice",
+    "advice": "speak in a deeper octave"
+  },
+  {
+    "prompt": "To avoid getting blinded by the sun",
+    "advice": "wear some sunglasses"
+  },
+  {
+    "prompt": "To avoid getting blinded by the sun",
+    "advice": "wear some sunglasses"
+  },
+  {
+    "prompt": "To avoid getting blinded by the sun",
+    "advice": "wear sunglasses"
+  },
+  {
+    "prompt": "If you want night-vision",
+    "advice": "buy some night-vision goggles"
+  },
+  {
+    "prompt": "If you want night-vision",
+    "advice": "buy a pair of night-vision goggles"
+  },
+  {
+    "prompt": "If you want night-vision",
+    "advice": "buy night vision goggles"
+  },
+  {
+    "prompt": "If it starts raining before your barbeque",
+    "advice": "wait until it stops raining"
+  },
+  {
+    "prompt": "If it starts raining before your barbeque",
+    "advice": "use the stove to cook your food inside"
+  },
+  {
+    "prompt": "If it starts raining before your barbeque",
+    "advice": "wait until it stops raining"
+  },
+  {
+    "prompt": "If the prongs for an electrical device cannot fit into the outlet",
+    "advice": "try a different outlet"
+  },
+  {
+    "prompt": "If the prongs for an electrical device cannot fit into the outlet",
+    "advice": "stop trying to plug it in"
+  },
+  {
+    "prompt": "If the prongs for an electrical device cannot fit into the outlet",
+    "advice": "do not force them"
+  },
+  {
+    "prompt": "If your bath gets cold",
+    "advice": "add more hot water"
+  },
+  {
+    "prompt": "If your bath gets cold",
+    "advice": "run the hot water for a minute"
+  },
+  {
+    "prompt": "If your bath gets cold",
+    "advice": "add some more warm water"
+  },
+  {
+    "prompt": "If you are worried about STI's",
+    "advice": "use protection"
+  },
+  {
+    "prompt": "If you are worried about STI's",
+    "advice": "use a condom"
+  },
+  {
+    "prompt": "If you are worried about STI's",
+    "advice": "seek the advice of your doctor"
+  },
+  {
+    "prompt": "If you are feeling hot",
+    "advice": "drink some cold water"
+  },
+  {
+    "prompt": "If you are feeling hot",
+    "advice": "drink some water and use a fan to cool off"
+  },
+  {
+    "prompt": "If you are feeling hot",
+    "advice": "turn on a fan"
+  },
+  {
+    "prompt": "If you want to look at the sun",
+    "advice": "look through a telescope that has a sun filter"
+  },
+  {
+    "prompt": "If you want to look at the sun",
+    "advice": "look at a picture of the sun instead"
+  },
+  {
+    "prompt": "If you want to look at the sun",
+    "advice": "make sure you're wearing protective eyewear"
+  },
+  {
+    "prompt": "If you are driving in icy conditions",
+    "advice": "drive slowly and stay alert"
+  },
+  {
+    "prompt": "If you are driving in icy conditions",
+    "advice": "do not slam on the brakes"
+  },
+  {
+    "prompt": "If you are driving in icy conditions",
+    "advice": "drive slower than you normally would"
+  },
+  {
+    "prompt": "If you can't find an oven mitt or towel",
+    "advice": "use a shirt"
+  },
+  {
+    "prompt": "If you can't find an oven mitt or towel",
+    "advice": "take off your shirt and use that as a guard"
+  },
+  {
+    "prompt": "If you can't find an oven mitt or towel",
+    "advice": "don't grab anything out of the oven"
+  },
+  {
+    "prompt": "If your baby is crying",
+    "advice": "gently rock them"
+  },
+  {
+    "prompt": "If your baby is crying",
+    "advice": "see if it's hungry"
+  },
+  {
+    "prompt": "If your baby is crying",
+    "advice": "check to see if they are hungry"
+  },
+  {
+    "prompt": "If you have a family history of diabetes",
+    "advice": "your diet should be very strict"
+  },
+  {
+    "prompt": "If you have a family history of diabetes",
+    "advice": "be careful of what you eat"
+  },
+  {
+    "prompt": "If you have a family history of diabetes",
+    "advice": "make sure to talk with your doctor"
+  },
+  {
+    "prompt": "To liven up a dinner party",
+    "advice": "add a party game"
+  },
+  {
+    "prompt": "To liven up a dinner party",
+    "advice": "play a fun game"
+  },
+  {
+    "prompt": "To liven up a dinner party",
+    "advice": "play a fun game"
+  },
+  {
+    "prompt": "If you have a paper cut",
+    "advice": "put a band-aid on it"
+  },
+  {
+    "prompt": "If you have a paper cut",
+    "advice": "put a band-aid on it"
+  },
+  {
+    "prompt": "If you have a paper cut",
+    "advice": "put a bandaid on it"
+  },
+  {
+    "prompt": "If you can't swim",
+    "advice": "learn how to from a teacher"
+  },
+  {
+    "prompt": "If you can't swim",
+    "advice": "avoid deep water"
+  },
+  {
+    "prompt": "If you can't swim",
+    "advice": "wear a lifejacket"
+  },
+  {
+    "prompt": "To give your veggies a nice flavour",
+    "advice": "cook them with some meat"
+  },
+  {
+    "prompt": "To give your veggies a nice flavour",
+    "advice": "add some salt and pepper"
+  },
+  {
+    "prompt": "To give your veggies a nice flavour",
+    "advice": "season them well"
+  },
+  {
+    "prompt": "To get a beautiful voice",
+    "advice": "practice singing all the time"
+  },
+  {
+    "prompt": "To get a beautiful voice",
+    "advice": "practice singing techniques"
+  },
+  {
+    "prompt": "To get a beautiful voice",
+    "advice": "take years of singing lessons"
+  },
+  {
+    "prompt": "If you hear someone coming up behind you saying \"on your left\"",
+    "advice": "stay to your right"
+  },
+  {
+    "prompt": "If you hear someone coming up behind you saying \"on your left\"",
+    "advice": "move over to the right"
+  },
+  {
+    "prompt": "If you hear someone coming up behind you saying \"on your left\"",
+    "advice": "move to the right"
+  },
+  {
+    "prompt": "If you are driving through a wooded area",
+    "advice": "keep your headlights on and stay alert"
+  },
+  {
+    "prompt": "If you are driving through a wooded area",
+    "advice": "look out for deer and other animals"
+  },
+  {
+    "prompt": "If you are driving through a wooded area",
+    "advice": "watch out for deer"
+  },
+  {
+    "prompt": "If you want to whiten your teeth",
+    "advice": "use some whitening toothpaste"
+  },
+  {
+    "prompt": "If you want to whiten your teeth",
+    "advice": "use teeth whitening strips"
+  },
+  {
+    "prompt": "If you want to whiten your teeth",
+    "advice": "try using a whitening toothpaste"
+  },
+  {
+    "prompt": "If there is something in your ear",
+    "advice": "try to get it out with water"
+  },
+  {
+    "prompt": "If there is something in your ear",
+    "advice": "go to a doctor and have them take it out"
+  },
+  {
+    "prompt": "If there is something in your ear",
+    "advice": "go to a doctor to get it out"
+  },
+  {
+    "prompt": "If you have foul smelling farts",
+    "advice": "eat a balanced diet"
+  },
+  {
+    "prompt": "If you have foul smelling farts",
+    "advice": "try to fart away from other people"
+  },
+  {
+    "prompt": "If you have foul smelling farts",
+    "advice": "go to the bathroom to fart"
+  },
+  {
+    "prompt": "If you want a guy to notice you",
+    "advice": "write him a note"
+  },
+  {
+    "prompt": "If you want a guy to notice you",
+    "advice": "try starting a conversation with him"
+  },
+  {
+    "prompt": "If you want a guy to notice you",
+    "advice": "be smart and kind around him"
+  },
+  {
+    "prompt": "To prevent mosquito bites",
+    "advice": "use some bug spray"
+  },
+  {
+    "prompt": "To prevent mosquito bites",
+    "advice": "wear bug spray"
+  },
+  {
+    "prompt": "To prevent mosquito bites",
+    "advice": "wear repellent while outdoors"
+  },
+  {
+    "prompt": "If you travel to a dangerous city",
+    "advice": "stay on the beaten path"
+  },
+  {
+    "prompt": "If you travel to a dangerous city",
+    "advice": "be aware of your surroundings"
+  },
+  {
+    "prompt": "If you travel to a dangerous city",
+    "advice": "be aware of your surroundings"
+  },
+  {
+    "prompt": "If you are unsure if something is too hot to drink",
+    "advice": "let is sit for a while before drinking it"
+  },
+  {
+    "prompt": "If you are unsure if something is too hot to drink",
+    "advice": "wait a few minutes before taking a sip"
+  },
+  {
+    "prompt": "If you are unsure if something is too hot to drink",
+    "advice": "check the temperature with a thermometer"
+  },
+  {
+    "prompt": "If your pets don't get along well",
+    "advice": "do activities with them together"
+  },
+  {
+    "prompt": "If your pets don't get along well",
+    "advice": "don't leave them together unsupervised"
+  },
+  {
+    "prompt": "If your pets don't get along well",
+    "advice": "keep them in separate rooms"
+  },
+  {
+    "prompt": "If you don't have a rain jacket for your small child",
+    "advice": "keep them under your umbrella"
+  },
+  {
+    "prompt": "If you don't have a rain jacket for your small child",
+    "advice": "teach them how to hold an umbrella"
+  },
+  {
+    "prompt": "If you don't have a rain jacket for your small child",
+    "advice": "offer them an umbrella"
+  },
+  {
+    "prompt": "To maximize your vitamin d intake",
+    "advice": "spend time in the sun with SPF on"
+  },
+  {
+    "prompt": "To maximize your vitamin d intake",
+    "advice": "only take the daily recommended amount"
+  },
+  {
+    "prompt": "To maximize your vitamin d intake",
+    "advice": "spend 15 minutes in the sun every day"
+  },
+  {
+    "prompt": "To avoid inhaling toxic chemicals",
+    "advice": "wear a mask and stay away from the chemicals"
+  },
+  {
+    "prompt": "To avoid inhaling toxic chemicals",
+    "advice": "wear a mask and avoid the area"
+  },
+  {
+    "prompt": "To avoid inhaling toxic chemicals",
+    "advice": "wear an appropriate mask"
+  },
+  {
+    "prompt": "If you have black mold on your walls",
+    "advice": "call a specialist to remove it"
+  },
+  {
+    "prompt": "If you have black mold on your walls",
+    "advice": "hire a professional to clean it"
+  },
+  {
+    "prompt": "If you have black mold on your walls",
+    "advice": "call a professional to clean it up"
+  },
+  {
+    "prompt": "If you don't want to spend money on a bellybutton ring",
+    "advice": "use stickers"
+  },
+  {
+    "prompt": "If you don't want to spend money on a bellybutton ring",
+    "advice": "wait until you have more money to spend"
+  },
+  {
+    "prompt": "If you don't want to spend money on a bellybutton ring",
+    "advice": "just let the hole close up"
+  },
+  {
+    "prompt": "To kill plaque on your teeth",
+    "advice": "brush your teeth and use floss"
+  },
+  {
+    "prompt": "To kill plaque on your teeth",
+    "advice": "brush your teeth after eating"
+  },
+  {
+    "prompt": "To kill plaque on your teeth",
+    "advice": "use mouthwash"
+  },
+  {
+    "prompt": "If you are procrastinating",
+    "advice": "remind yourself of the reason to get things done"
+  },
+  {
+    "prompt": "If you are procrastinating",
+    "advice": "think of a reward to give yourself for completing the task"
+  },
+  {
+    "prompt": "If you are procrastinating",
+    "advice": "try to organize your work and make goals for yourself"
+  },
+  {
+    "prompt": "If you are going through a breakup",
+    "advice": "try to talk with friends about it"
+  },
+  {
+    "prompt": "If you are going through a breakup",
+    "advice": "go spend time with your best friend"
+  },
+  {
+    "prompt": "If you are going through a breakup",
+    "advice": "spend time with friends who will cheer you up"
+  },
+  {
+    "prompt": "If you are feeling tipsy",
+    "advice": "sit down for a while"
+  },
+  {
+    "prompt": "If you are feeling tipsy",
+    "advice": "start drinking water instead"
+  },
+  {
+    "prompt": "If you are feeling tipsy",
+    "advice": "don't drive a car"
+  },
+  {
+    "prompt": "If you are lifting weights",
+    "advice": "stay hydrated"
+  },
+  {
+    "prompt": "If you are lifting weights",
+    "advice": "don't lift more than you can handle"
+  },
+  {
+    "prompt": "If you are lifting weights",
+    "advice": "make sure you are using correct posture"
+  },
+  {
+    "prompt": "If you have a brand new car",
+    "advice": "always drive it carefully"
+  },
+  {
+    "prompt": "If you have a brand new car",
+    "advice": "wash it regularly"
+  },
+  {
+    "prompt": "If you have a brand new car",
+    "advice": "take it in for maintenance regularly"
+  },
+  {
+    "prompt": "When lifting weights",
+    "advice": "know your limitations"
+  },
+  {
+    "prompt": "When lifting weights",
+    "advice": "make sure someone is there to spot you"
+  },
+  {
+    "prompt": "When lifting weights",
+    "advice": "wear a lifting belt to protect your back"
+  },
+  {
+    "prompt": "If you are outside during a thunderstorm",
+    "advice": "find some shelter until the storm is over"
+  },
+  {
+    "prompt": "If you are outside during a thunderstorm",
+    "advice": "find cover asap"
+  },
+  {
+    "prompt": "If you are outside during a thunderstorm",
+    "advice": "seek shelter"
+  },
+  {
+    "prompt": "If you are feeling nervous before a driving exam",
+    "advice": "use breathing techniques"
+  },
+  {
+    "prompt": "If you are feeling nervous before a driving exam",
+    "advice": "take some deep breaths"
+  },
+  {
+    "prompt": "If you are feeling nervous before a driving exam",
+    "advice": "remember what you learned and stay calm"
+  },
+  {
+    "prompt": "If your partner snores",
+    "advice": "ask them to address it"
+  },
+  {
+    "prompt": "If your partner snores",
+    "advice": "they may have health concerns and should see a sleep doctor"
+  },
+  {
+    "prompt": "If your partner snores",
+    "advice": "go sleep on the couch"
+  },
+  {
+    "prompt": "If you want your breath to smell good but you don't have time to brush your teeth",
+    "advice": "chew some gum"
+  },
+  {
+    "prompt": "If you want your breath to smell good but you don't have time to brush your teeth",
+    "advice": "quickly swish around some mouth wash"
+  },
+  {
+    "prompt": "If you want your breath to smell good but you don't have time to brush your teeth",
+    "advice": "get a piece of mint gum to chew"
+  },
+  {
+    "prompt": "To alleviate congestion",
+    "advice": "take some medicine"
+  },
+  {
+    "prompt": "To alleviate congestion",
+    "advice": "keep your space dust free and take decongestion medicine"
+  },
+  {
+    "prompt": "To alleviate congestion",
+    "advice": "take a hot shower"
+  },
+  {
+    "prompt": "When cooking eggs",
+    "advice": "use enough fat so they don't stick"
+  },
+  {
+    "prompt": "When cooking eggs",
+    "advice": "be careful not to let them burn"
+  },
+  {
+    "prompt": "When cooking eggs",
+    "advice": "make sure they are thoroughly cooked"
+  },
+  {
+    "prompt": "To get rid of bed bugs",
+    "advice": "spray your sheets"
+  },
+  {
+    "prompt": "To get rid of bed bugs",
+    "advice": "get rid of the furniture they infested"
+  },
+  {
+    "prompt": "To get rid of bed bugs",
+    "advice": "call an exterminator"
+  },
+  {
+    "prompt": "If you have an old refrigerator to throw away",
+    "advice": "call someone to take it away"
+  },
+  {
+    "prompt": "If you have an old refrigerator to throw away",
+    "advice": "most power companies will pick them up for free"
+  },
+  {
+    "prompt": "If you have an old refrigerator to throw away",
+    "advice": "take the refrigerator to an appliance recycler"
+  },
+  {
+    "prompt": "If you feel lightheaded",
+    "advice": "sit down"
+  },
+  {
+    "prompt": "If you feel lightheaded",
+    "advice": "sit down somewhere and wait until you feel normal"
+  },
+  {
+    "prompt": "If you feel lightheaded",
+    "advice": "sit down for a bit"
+  },
+  {
+    "prompt": "To produce tears naturally",
+    "advice": "always stay hydrated"
+  },
+  {
+    "prompt": "To produce tears naturally",
+    "advice": "think about something sad"
+  },
+  {
+    "prompt": "To produce tears naturally",
+    "advice": "cut onions"
+  },
+  {
+    "prompt": "To know if your perishable goods are bad",
+    "advice": "check to see if it smells bad"
+  },
+  {
+    "prompt": "To know if your perishable goods are bad",
+    "advice": "smell them"
+  },
+  {
+    "prompt": "To know if your perishable goods are bad",
+    "advice": "check the expiration date"
+  },
+  {
+    "prompt": "If you are tired of cold forks taking heat away from your freshly made meals",
+    "advice": "use plastic forks"
+  },
+  {
+    "prompt": "If you are tired of cold forks taking heat away from your freshly made meals",
+    "advice": "run it under warm water for a few seconds"
+  },
+  {
+    "prompt": "If you are tired of cold forks taking heat away from your freshly made meals",
+    "advice": "try using a plastic fork instead"
+  },
+  {
+    "prompt": "To encourage children to eat healthily",
+    "advice": "feed them lots of tasty vegetables"
+  },
+  {
+    "prompt": "To encourage children to eat healthily",
+    "advice": "try finding a vegetable your kid likes"
+  },
+  {
+    "prompt": "To encourage children to eat healthily",
+    "advice": "make vegetables and fruits fun with smoothies and exciting recipes"
+  },
+  {
+    "prompt": "If you don't feel tired and you think you should be",
+    "advice": "try reading a good book"
+  },
+  {
+    "prompt": "If you don't feel tired and you think you should be",
+    "advice": "lay down and take a nap"
+  },
+  {
+    "prompt": "If you don't feel tired and you think you should be",
+    "advice": "try reading a book"
+  },
+  {
+    "prompt": "If you have a painful cut",
+    "advice": "use some ointment"
+  },
+  {
+    "prompt": "If you have a painful cut",
+    "advice": "put some Neosporin on it and cover it with a band-aid"
+  },
+  {
+    "prompt": "If you have a painful cut",
+    "advice": "put a band-aid on it"
+  },
+  {
+    "prompt": "If you're dehydrated",
+    "advice": "always try to drink water"
+  },
+  {
+    "prompt": "If you're dehydrated",
+    "advice": "drink some water or something with electrolytes"
+  },
+  {
+    "prompt": "If you're dehydrated",
+    "advice": "drink extra water or electrolyte drinks"
+  },
+  {
+    "prompt": "If your cigarette lighter appears empty",
+    "advice": "buy a new one"
+  },
+  {
+    "prompt": "If your cigarette lighter appears empty",
+    "advice": "take it as an opportunity to stop smoking"
+  },
+  {
+    "prompt": "If your cigarette lighter appears empty",
+    "advice": "buy a new lighter"
+  },
+  {
+    "prompt": "If anybody ever offers you drugs",
+    "advice": "say no and walk away"
+  },
+  {
+    "prompt": "If anybody ever offers you drugs",
+    "advice": "politely decline"
+  },
+  {
+    "prompt": "If anybody ever offers you drugs",
+    "advice": "say no"
+  },
+  {
+    "prompt": "If you have cancer",
+    "advice": "go see a cancer specialist"
+  },
+  {
+    "prompt": "If you have cancer",
+    "advice": "talk to an oncologist about your treatment plan"
+  },
+  {
+    "prompt": "If you have cancer",
+    "advice": "follow the doctor's instructions for treatment"
+  },
+  {
+    "prompt": "To drive hands free",
+    "advice": "buy a Tesla"
+  },
+  {
+    "prompt": "To drive hands free",
+    "advice": "get a chauffeur"
+  },
+  {
+    "prompt": "To drive hands free",
+    "advice": "get an auto-driving car"
+  },
+  {
+    "prompt": "If your skin is peeling",
+    "advice": "use some lotion"
+  },
+  {
+    "prompt": "If your skin is peeling",
+    "advice": "use a mild moisturizer"
+  },
+  {
+    "prompt": "If your skin is peeling",
+    "advice": "use some lotion"
+  },
+  {
+    "prompt": "If your roommate's snoring keeps you up",
+    "advice": "play some sleep music on your  tv or phone"
+  },
+  {
+    "prompt": "If your roommate's snoring keeps you up",
+    "advice": "buy some earplugs"
+  },
+  {
+    "prompt": "If your roommate's snoring keeps you up",
+    "advice": "suggest that they get evaluated for a c-pap machine"
+  },
+  {
+    "prompt": "If you are holding a knife",
+    "advice": "walk slowly"
+  },
+  {
+    "prompt": "If you are holding a knife",
+    "advice": "make sure it is not pointing towards anyone"
+  },
+  {
+    "prompt": "If you are holding a knife",
+    "advice": "point the tip away from yourself"
+  },
+  {
+    "prompt": "If you are craving sushi on a budget",
+    "advice": "go to the supermarket"
+  },
+  {
+    "prompt": "If you are craving sushi on a budget",
+    "advice": "make it at home"
+  },
+  {
+    "prompt": "If you are craving sushi on a budget",
+    "advice": "try making your own"
+  },
+  {
+    "prompt": "If your left arm goes numb and you have tightness in your chest",
+    "advice": "go to the hospital"
+  },
+  {
+    "prompt": "If your left arm goes numb and you have tightness in your chest",
+    "advice": "call 911 for help"
+  },
+  {
+    "prompt": "If your left arm goes numb and you have tightness in your chest",
+    "advice": "go see a doctor"
+  },
+  {
+    "prompt": "If you are pulled over by a cop",
+    "advice": "stay calm and follow instructions"
+  },
+  {
+    "prompt": "If you are pulled over by a cop",
+    "advice": "keep both hands on the steering wheel"
+  },
+  {
+    "prompt": "If you are pulled over by a cop",
+    "advice": "keep your hands on the steering wheel until they tell you to do otherwise"
+  },
+  {
+    "prompt": "If you have poison oak",
+    "advice": "get some medicine"
+  },
+  {
+    "prompt": "If you have poison oak",
+    "advice": "don't touch it"
+  },
+  {
+    "prompt": "If you have poison oak",
+    "advice": "use a cream on your rash"
+  },
+  {
+    "prompt": "To give a friend a good scare",
+    "advice": "put a toy snake on their parked car"
+  },
+  {
+    "prompt": "To give a friend a good scare",
+    "advice": "tell them you are pregnant with their child"
+  },
+  {
+    "prompt": "To give a friend a good scare",
+    "advice": "watch a scary movie with them"
+  },
+  {
+    "prompt": "If there is an out of control fire",
+    "advice": "call the fire department"
+  },
+  {
+    "prompt": "If there is an out of control fire",
+    "advice": "find the nearest fire extinguisher or call 911"
+  },
+  {
+    "prompt": "If there is an out of control fire",
+    "advice": "evacuate the area"
+  },
+  {
+    "prompt": "If you are on the wrong train platform",
+    "advice": "go back through the station to get to the right platform"
+  },
+  {
+    "prompt": "If you are on the wrong train platform",
+    "advice": "see if you can safely move to the correct platform"
+  },
+  {
+    "prompt": "If you are on the wrong train platform",
+    "advice": "find a safe way to travel to the correct platform"
+  },
+  {
+    "prompt": "When listening to music with earphones in bed",
+    "advice": "listen to music that helps you sleep"
+  },
+  {
+    "prompt": "When listening to music with earphones in bed",
+    "advice": "don't fall asleep with them in"
+  },
+  {
+    "prompt": "When listening to music with earphones in bed",
+    "advice": "make sure the cord doesn't get tangled"
+  },
+  {
+    "prompt": "If you ever burn/cut the roof of your mouth",
+    "advice": "leave it alone to heal"
+  },
+  {
+    "prompt": "If you ever burn/cut the roof of your mouth",
+    "advice": "try to wait for your food to cool down next time"
+  },
+  {
+    "prompt": "If you ever burn/cut the roof of your mouth",
+    "advice": "try to avoid acidic food why it heals"
+  },
+  {
+    "prompt": "To get cleaner in the shower",
+    "advice": "use soap"
+  },
+  {
+    "prompt": "To get cleaner in the shower",
+    "advice": "use a high quality cleanser"
+  },
+  {
+    "prompt": "To get cleaner in the shower",
+    "advice": "use a scrubbing wash cloth lathered with soap"
+  },
+  {
+    "prompt": "To show someone how strong you are",
+    "advice": "lift a heavy weight that you can handle"
+  },
+  {
+    "prompt": "To show someone how strong you are",
+    "advice": "enter a weight lifting competition"
+  },
+  {
+    "prompt": "To show someone how strong you are",
+    "advice": "flex your muscles"
+  },
+  {
+    "prompt": "When storing 9v batteries",
+    "advice": "keep them cool and dry"
+  },
+  {
+    "prompt": "When storing 9v batteries",
+    "advice": "don't leave them in the sun"
+  },
+  {
+    "prompt": "When storing 9v batteries",
+    "advice": "put them in a cool room"
+  },
+  {
+    "prompt": "To nap-train a child",
+    "advice": "have them take daily naps"
+  },
+  {
+    "prompt": "To nap-train a child",
+    "advice": "lie down with them to make them feel comfortable"
+  },
+  {
+    "prompt": "To nap-train a child",
+    "advice": "keep a consistent routine"
+  },
+  {
+    "prompt": "If you are tired",
+    "advice": "get more rest"
+  },
+  {
+    "prompt": "If you are tired",
+    "advice": "take a nap"
+  },
+  {
+    "prompt": "If you are tired",
+    "advice": "get more rest"
+  },
+  {
+    "prompt": "To make your phone easier to access while driving",
+    "advice": "get a phone mount for your dashboard"
+  },
+  {
+    "prompt": "To make your phone easier to access while driving",
+    "advice": "ask a passenger to operate the phone for you"
+  },
+  {
+    "prompt": "To make your phone easier to access while driving",
+    "advice": "make sure to pull over and park first"
+  },
+  {
+    "prompt": "To calm a crying baby",
+    "advice": "feed it warm milk"
+  },
+  {
+    "prompt": "To calm a crying baby",
+    "advice": "try singing a lullaby"
+  },
+  {
+    "prompt": "To calm a crying baby",
+    "advice": "gently rock them to sleep"
+  },
+  {
+    "prompt": "To make a super cleaner",
+    "advice": "look up how to safely or buy one from the store"
+  },
+  {
+    "prompt": "To make a super cleaner",
+    "advice": "mix vinegar and baking soda"
+  },
+  {
+    "prompt": "To make a super cleaner",
+    "advice": "use vinegar and soap"
+  },
+  {
+    "prompt": "If your butter is cold and hard to cut",
+    "advice": "let it come to warm temperature"
+  },
+  {
+    "prompt": "If your butter is cold and hard to cut",
+    "advice": "leave it out at room temperature so it gets softer"
+  },
+  {
+    "prompt": "If your butter is cold and hard to cut",
+    "advice": "take it out of the refrigerator for a little while"
+  },
+  {
+    "prompt": "If you feel like you are going to puke",
+    "advice": "get to a trashcan to puke in it"
+  },
+  {
+    "prompt": "If you feel like you are going to puke",
+    "advice": "think about something else while you find a bathroom"
+  },
+  {
+    "prompt": "If you feel like you are going to puke",
+    "advice": "stay near the toilet"
+  }
+]
