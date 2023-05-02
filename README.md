@@ -1,7 +1,7 @@
 # FARM 
 ## Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI 
-Paper Link: https://arxiv.org/abs/2212.09667 
-Authors: Alex Mei*, Sharon Levy, William Yang Wang
+Paper Link: https://arxiv.org/abs/2212.09667 <br>
+Authors: Alex Mei*, Sharon Levy*, William Yang Wang
 
 ## Setup
 - Install venv: https://realpython.com/python-virtual-environments-a-primer/
