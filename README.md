@@ -69,10 +69,10 @@ main.py: the following arguments are required: -f/--folder, -p/--phase, -t/--typ
 ## Attribution
 When using resources based on our project, please cite the following paper, to appear in ACL 2023:
 ```
-@misc{mei2022foveate,
-      title={Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI}, 
+@misc{mei2023foveate,
+      title={Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI}, 
       author={Alex Mei and Sharon Levy and William Yang Wang},
-      year={2022},
+      year={2023},
       eprint={2212.09667},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
