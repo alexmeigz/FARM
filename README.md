@@ -6,6 +6,7 @@ Authors: Alex Mei*, Sharon Levy*, William Yang Wang <br> <br>
 
 
 ## Setup
+- This project is based on `python v3.7.3`
 - Install venv: https://realpython.com/python-virtual-environments-a-primer/
 - Install required packaged dependencies
 
