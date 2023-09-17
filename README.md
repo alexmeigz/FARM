@@ -1,6 +1,6 @@
 # FARM 
 ## Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI 
-Paper Link: https://arxiv.org/abs/2212.09667 <br>
+Paper Link: https://aclanthology.org/2023.findings-acl.701/ <br>
 Authors: Alex Mei*, Sharon Levy*, William Yang Wang <br> <br>
 <img width="400" alt="Screen Shot 2023-05-02 at 2 29 38 PM" src="https://user-images.githubusercontent.com/34776716/235790407-4e9f22c0-6715-4e6f-bd40-9dbb07a28899.png">
 
